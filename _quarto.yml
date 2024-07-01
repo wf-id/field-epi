@@ -19,6 +19,7 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - before.qmd
     - part: human-epi.qmd
       chapters:
         - case-definition.qmd
