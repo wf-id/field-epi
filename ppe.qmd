@@ -1,0 +1,8 @@
+# PPE
+
+Personal protective equipment (PPE) is vital to protecting your staff and yourself during an outbreak investigation.
+Loss of personel to sickness and quarantine can disrupt ongoing outbreak response actions.
+Importantly, while supplies allow and until testing indicates otherwise, you should operate at higher levels of PPE.
+This may include the use of N-95 respirators with facial shields and gloves (i.e., mask, gowns, and glasses/goggles).
+Depending on the pathogen suspected and the transmission modality, higher levels of PPE may be required.
+For instance during outbreaks of [Marburg and Ebola](https://www.who.int/teams/health-product-policy-and-standards/assistive-and-medical-technology/medical-devices/ppe/ppe-ebola#:~:text=These%20usually%20consist%20of%20standard,%2C%20head%20cover%2C%20rubber%20boots.), higher levels of PPE are required including full protective suits, gloves, and PAPRs. 

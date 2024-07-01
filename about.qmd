@@ -1,0 +1,3 @@
+# About this book
+
+This book is designed to accompany the International Field Epidemiology course.

@@ -1,0 +1,3 @@
+# Defining a case
+
+One of the key aspects of an outbreak investigation is establishing the case definition.

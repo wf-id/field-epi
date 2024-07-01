@@ -1,0 +1,116 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Field Epidemiology and Outbreak Response",
+    "section": "",
+    "text": "Preface\nThe handbook evolved after my experience during the International Field Epidemiology program conducted during June 2024 in Lima and Tumbes, Peru.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "During an outbreak, the key mission is two-fold– save as many lives as possible and learn enough to stop the outbreak. Zoonoses are growing (Woolhouse and Gowtage-Sequeria 2005).\n\n\n\n\nWoolhouse, Mark E. J., and Sonya Gowtage-Sequeria. 2005. “Host Range and Emerging and Reemerging Pathogens.” Emerging Infectious Diseases 11 (12). https://doi.org/10.3201/eid1112.050997.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "human-epi.html",
+    "href": "human-epi.html",
+    "title": "Human epidemiology",
+    "section": "",
+    "text": "Human epidemiology.",
+    "crumbs": [
+      "Human epidemiology"
+    ]
+  },
+  {
+    "objectID": "case-definition.html",
+    "href": "case-definition.html",
+    "title": "2  Defining a case",
+    "section": "",
+    "text": "One of the key aspects of an outbreak investigation is establishing the case definition.",
+    "crumbs": [
+      "Human epidemiology",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Defining a case</span>"
+    ]
+  },
+  {
+    "objectID": "bioethics.html",
+    "href": "bioethics.html",
+    "title": "3  Bioethics during an outbreak",
+    "section": "",
+    "text": "Ethical considerations are vital during an outbreak in order to preserve the trust of the community",
+    "crumbs": [
+      "Human epidemiology",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Bioethics during an outbreak</span>"
+    ]
+  },
+  {
+    "objectID": "reporting.html",
+    "href": "reporting.html",
+    "title": "4  Reporting",
+    "section": "",
+    "text": "4.1 Situation Reports",
+    "crumbs": [
+      "After action",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reporting</span>"
+    ]
+  },
+  {
+    "objectID": "reporting.html#after-action-reports",
+    "href": "reporting.html#after-action-reports",
+    "title": "4  Reporting",
+    "section": "4.2 After Action Reports",
+    "text": "4.2 After Action Reports",
+    "crumbs": [
+      "After action",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reporting</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "5  Conclusion",
+    "section": "",
+    "text": "Importantly, field epidemiology requires a diverse team from a variety of skillsets in order to be sucessful.",
+    "crumbs": [
+      "Conclusion",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Conclusion</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Woolhouse, Mark E. J., and Sonya Gowtage-Sequeria. 2005. “Host\nRange and Emerging and Reemerging Pathogens.” Emerging\nInfectious Diseases 11 (12). https://doi.org/10.3201/eid1112.050997.",
+    "crumbs": [
+      "Conclusion",
+      "References"
+    ]
+  },
+  {
+    "objectID": "ppe.html",
+    "href": "ppe.html",
+    "title": "Appendix A — PPE",
+    "section": "",
+    "text": "Personal protective equipment (PPE) is vital to protecting your staff and yourself during an outbreak investigation. Loss of personel to sickness and quarantine can disrupt ongoing outbreak response actions. Importantly, while supplies allow and until testing indicates otherwise, you should operate at higher levels of PPE. This may include the use of N-95 respirators with facial shields and gloves (i.e., mask, gowns, and glasses/goggles). Depending on the pathogen suspected and the transmission modality, higher levels of PPE may be required. For instance during outbreaks of Marburg and Ebola, higher levels of PPE are required including full protective suits, gloves, and PAPRs.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>PPE</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this book",
+    "section": "",
+    "text": "This book is designed to accompany the International Field Epidemiology course."
+  }
+]

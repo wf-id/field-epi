@@ -1,0 +1,45 @@
+project:
+  type: book
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+book:
+  title: "Introduction to Field Epidemiology and Outbreak Response"
+  author: 
+  - name: "Michael E. DeWitt"
+    orcid: "0000-0001-8940-1967"
+  date: last-modified
+  page-navigation: true
+  cover-image: "assets/cover.jpg"
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: human-epi.qmd
+      chapters:
+        - case-definition.qmd
+        - bioethics.qmd
+    - part: "After action"
+      chapters: 
+        - reporting.qmd
+    - part: "Conclusion"
+      chapters:
+      - summary.qmd
+      - references.qmd
+  appendices:
+    - ppe.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: assets/cover.jpg
