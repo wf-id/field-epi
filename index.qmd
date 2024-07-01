@@ -1,3 +1,5 @@
 # Preface {.unnumbered}
 
 The handbook evolved after my experience during the International Field Epidemiology program conducted during June 2024 in Lima and Tumbes, Peru.
+
+>The conclusions, findings, and opinions expressed by authors contributing to this journal do not necessarily reflect the official position of the authors' affiliated institutions.
