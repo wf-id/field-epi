@@ -12,6 +12,7 @@ book:
   date: last-modified
   page-navigation: true
   cover-image: "assets/cover.jpg"
+  downloads: [pdf, epub]
   page-footer:
     center: 
       - text: "About"

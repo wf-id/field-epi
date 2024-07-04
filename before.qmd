@@ -19,21 +19,36 @@ Based on the ongoing disease dynamics within the country, your will see three di
 - Not recommended
 
 We can look at the [CDC recommendations for Peru](https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru).
-As shown in  @tab-tabCdcPeruVax.
 
-```{r getPeruCdc}
+```{r}
 #| echo: false
-
+#| label: getPeruCdc
+library(kableExtra)
 library(rvest)
-ses <- session("https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru")
+uri <- "https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru"
+ses <- session(uri)
 tab1 <- rvest::html_table(ses)
 ```
 
+::: {.content-hidden when-format="pdf"}
 ```{r tabCdcPeruVax}
 #| echo: false
-#| label: tab-tabCdcPeruVax
+#| label: tab-tabCdcPeruVax1
+
 tab1[[1]] |>
-  gt::gt(caption = sprintf("Recommended vaccines for travelers to Peru as of %s", Sys.Date()))
+  gt::gt(caption = sprintf("Recommended vaccines for travelers to Peru retrieved from %s on %s", uri, Sys.Date()))
 ```
+:::
+
+::: {.content-visible when-format="pdf"}
+```{r tabCdcPeruVax}
+#| echo: false
+#| label: tab-tabCdcPeruVax2
 
 
+tab1[[1]] |>
+  dplyr::mutate(Recommendations = stringr::str_wrap(Recommendations, 120)) |>
+  kbl(format = "latex", caption = sprintf("Recommended vaccines for travelers to Peru retrieved from %s on %s", uri, Sys.Date()), booktabs = TRUE)
+
+```
+:::

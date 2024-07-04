@@ -2,4 +2,16 @@
 
 The handbook evolved after my experience during the International Field Epidemiology program conducted during June 2024 in Lima and Tumbes, Peru.
 
->The conclusions, findings, and opinions expressed by authors contributing to this journal do not necessarily reflect the official position of the authors' affiliated institutions.
+
+## Disclaimer
+
+The conclusions, findings, and opinions expressed by authors contributing to this journal do not necessarily reflect the official position of the authors' affiliated institutions.
+
+## Notice
+
+This material is not indended to be and should not be considered a substitute for medical or other professional advice.
+Treatment for the conditions described in this material is highly dependent on the individual circumstances.
+While this material is designed to offer accurate information with respect to the subject matter covered and to be current as of the time it was written, research and knowledge about medical and health issues are constantly evolving, and dose schedules for medications and vaccines are being revised continually, with new side effects recognized and accounted for regularly.
+Readers must, therefore, always check the product information and data sheets provided by the manufacturers and the most recent codes of conduct and safety regulatioons. 
+The the publisher and the authors make no representations or warranties to readers, express or implied, as to the accuracy or completeness of this material, including without limitations that they make no representations or warranties as to the accuracy of the drug dosages mentioned in this material.
+The authors and the publishers do not accept, and expressly disclaim, any responsibility for any liability, loss, or risk that may be claimed or incurred as a consequence of the use and/or application of any of the contents of this material.
