@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Michael E. DeWitt">
-<meta name="dcterms.date" content="2024-07-04">
 
-<title>Introduction to Field Epidemiology and Outbreak Response</title>
+<title>Introduction to Field Epidemiology and Outbreak Response - Appendix B — Learning R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./intro.html" rel="next">
+<link href="./ppe.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -82,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./ppe.html">Appendices</a></li><li class="breadcrumb-item"><a href="./resources-r.html"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Learning R</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -128,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preface</span></a>
   </div>
 </li>
@@ -224,7 +222,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./resources-r.html" class="sidebar-item-text sidebar-link">
+  <a href="./resources-r.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Learning R</span></span></a>
   </div>
 </li>
@@ -240,39 +238,25 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a>
-  <ul class="collapse">
-  <li><a href="#disclaimer" id="toc-disclaimer" class="nav-link" data-scroll-target="#disclaimer">Disclaimer</a></li>
-  <li><a href="#notice" id="toc-notice" class="nav-link" data-scroll-target="#notice">Notice</a></li>
-  </ul></li>
+  <li><a href="#learning-the-basics" id="toc-learning-the-basics" class="nav-link active" data-scroll-target="#learning-the-basics"><span class="header-section-number">B.1</span> Learning the basics</a></li>
+  <li><a href="#epidemiology-focused" id="toc-epidemiology-focused" class="nav-link" data-scroll-target="#epidemiology-focused"><span class="header-section-number">B.2</span> Epidemiology focused</a></li>
+  <li><a href="#geospatial-focused" id="toc-geospatial-focused" class="nav-link" data-scroll-target="#geospatial-focused"><span class="header-section-number">B.3</span> Geospatial focused</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./ppe.html">Appendices</a></li><li class="breadcrumb-item"><a href="./resources-r.html"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Learning R</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Introduction to Field Epidemiology and Outbreak Response</h1>
+<h1 class="title"><span id="learnR" class="quarto-section-identifier">Appendix B — Learning R</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Michael E. DeWitt <a href="https://orcid.org/0000-0001-8940-1967" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">July 4, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -282,20 +266,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-
-<section id="preface" class="level1 unnumbered">
-<h1 class="unnumbered">Preface</h1><p><img src="assets/cover.jpg" title="Introduction to Field Epidemiology and Outbreak Response" class="quarto-cover-image img-fluid"></p>
-<p>The handbook evolved after my experience during the International Field Epidemiology program conducted during June 2024 in Lima and Tumbes, Peru.</p>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>The conclusions, findings, and opinions expressed by authors contributing to this journal do not necessarily reflect the official position of the authors’ affiliated institutions.</p>
+<p>The basics of the R programming language</p>
+<section id="learning-the-basics" class="level2" data-number="B.1">
+<h2 data-number="B.1" class="anchored" data-anchor-id="learning-the-basics"><span class="header-section-number">B.1</span> Learning the basics</h2>
+<ul>
+<li><a href="https://r4ds.hadley.nz">R for Data Science</a></li>
+<li><a href="https://jjallaire.github.io/hopr/">Hands on programming with R</a></li>
+</ul>
 </section>
-<section id="notice" class="level2">
-<h2 class="anchored" data-anchor-id="notice">Notice</h2>
-<p>This material is not indended to be and should not be considered a substitute for medical or other professional advice. Treatment for the conditions described in this material is highly dependent on the individual circumstances. While this material is designed to offer accurate information with respect to the subject matter covered and to be current as of the time it was written, research and knowledge about medical and health issues are constantly evolving, and dose schedules for medications and vaccines are being revised continually, with new side effects recognized and accounted for regularly. Readers must, therefore, always check the product information and data sheets provided by the manufacturers and the most recent codes of conduct and safety regulatioons. The the publisher and the authors make no representations or warranties to readers, express or implied, as to the accuracy or completeness of this material, including without limitations that they make no representations or warranties as to the accuracy of the drug dosages mentioned in this material. The authors and the publishers do not accept, and expressly disclaim, any responsibility for any liability, loss, or risk that may be claimed or incurred as a consequence of the use and/or application of any of the contents of this material.</p>
-
-
+<section id="epidemiology-focused" class="level2" data-number="B.2">
+<h2 data-number="B.2" class="anchored" data-anchor-id="epidemiology-focused"><span class="header-section-number">B.2</span> Epidemiology focused</h2>
+<ul>
+<li><a href="https://appliedepi.org/epirhandbook/">The Epidemiologist R Handbook</a></li>
+<li><a href="https://www.r4epi.com">R for Epidemiology</a></li>
+<li><a href="https://ucb-epi-r.github.io">Introduction to R for Epidemiologists</a></li>
+</ul>
 </section>
+<section id="geospatial-focused" class="level2" data-number="B.3">
+<h2 data-number="B.3" class="anchored" data-anchor-id="geospatial-focused"><span class="header-section-number">B.3</span> Geospatial focused</h2>
+<ul>
+<li><a href="https://r.geocompx.org">Geocomputation with R</a></li>
+<li><a href="https://rspatial.org/index.html">Spatial Data Science</a></li>
+<li><a href="https://www.paulamoraga.com/book-geospatial/">Geospatial Health Data</a></li>
+<li><a href="https://pmarchand1.github.io/atelier_rgeo/rgeo_workshop.html">R for Geospatial</a></li>
+<li></li>
+</ul>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -710,11 +707,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./ppe.html" class="pagination-link" aria-label="PPE">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">PPE</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./intro.html" class="pagination-link" aria-label="Introduction">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

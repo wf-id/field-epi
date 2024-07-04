@@ -11,12 +11,12 @@ The best way to prepare for this is to visit a travel medicine clinic.
 [Travel medicine clinics](https://wwwnc.cdc.gov/travel/page/find-clinic) are typically staffed by infectious disease physicians who can recommend different vaccines, prophylaxis, and counseling on what to do in case of emergencies.
 Visits to a travel medicine provider are typically covered by your insurance.
 
-These providers will examine things like the Centers for Disease Control and Prevention (CDC)'s yellow book.
+These providers will examine things like the Centers for Disease Control and Prevention (CDC)'s [yellow book](https://wwwnc.cdc.gov/travel/page/yellowbook-home) or other resources like [Shoreland Travax](https://www.travax.com).
 Based on the ongoing disease dynamics within the country, your will see three different categories for vaccination:
 
-- Recommended
-- Generally not recommended
-- Not recommended
+- **Recommended**
+- **Generally not recommended**
+- **Not recommended**
 
 We can look at the [CDC recommendations for Peru](https://wwwnc.cdc.gov/travel/destinations/traveler/none/peru).
 
@@ -47,8 +47,29 @@ tab1[[1]] |>
 
 
 tab1[[1]] |>
-  dplyr::mutate(Recommendations = stringr::str_wrap(Recommendations, 120)) |>
-  kbl(format = "latex", caption = sprintf("Recommended vaccines for travelers to Peru retrieved from %s on %s", uri, Sys.Date()), booktabs = TRUE)
+  dplyr::mutate(Recommendations = stringr::str_remove_all(Recommendations, "\r\n")) |>
+  dplyr::mutate(Recommendations = stringr::str_replace_all(Recommendations, "&", "\\&")) |>
+  #dplyr::mutate(Recommendations = stringr::str_wrap(Recommendations, 120)) |>
+  kbl(format = "latex", caption = sprintf("Recommended vaccines for travelers to Peru retrieved from %s on %s", uri, Sys.Date()), booktabs = TRUE, longtable = TRUE) |>
+  kable_styling(latex_options = "striped") |>
+  column_spec(1, width = "5em") |>
+  column_spec(2, width = "30em") |>
+  column_spec(3, width = "5em")
 
 ```
 :::
+
+## Packing for your travel
+
+### Perscription Medications
+
+### Medical supplies
+
+### Prevention
+
+### First Aid
+
+### Documentation
+
+
+

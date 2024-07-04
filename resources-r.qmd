@@ -1,0 +1,23 @@
+# Learning R {#learnR}
+
+The basics of the R programming language
+
+## Learning the basics
+
+- [R for Data Science](https://r4ds.hadley.nz)
+- [Hands on programming with R](https://jjallaire.github.io/hopr/)
+
+## Epidemiology focused
+
+- [The Epidemiologist R Handbook](https://appliedepi.org/epirhandbook/)
+- [R for Epidemiology](https://www.r4epi.com)
+- [Introduction to R for Epidemiologists](https://ucb-epi-r.github.io)
+
+## Geospatial focused
+
+- [Geocomputation with R](https://r.geocompx.org)
+- [Spatial Data Science](https://rspatial.org/index.html)
+- [Geospatial Health Data](https://www.paulamoraga.com/book-geospatial/)
+- [R for Geospatial](https://pmarchand1.github.io/atelier_rgeo/rgeo_workshop.html)
+- 
+
