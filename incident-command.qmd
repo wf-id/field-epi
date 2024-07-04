@@ -1,0 +1,6 @@
+# Incident Command
+
+One of the most critical tasks during an outbreak is organizing the activities.
+Public health practictioners and experts are typically very interested in responding to an outbreak.
+This energy needs to be appropriately directed in order to reduce the risk that these efforts detract from oneanother.
+
