@@ -21,6 +21,10 @@ book:
     - index.qmd
     - intro.qmd
     - before.qmd
+    - part: "Organization"
+      chapters: 
+        - incident-command.qmd
+        - logistics.qmd
     - part: human-epi.qmd
       chapters:
         - case-definition.qmd
@@ -35,6 +39,7 @@ book:
   appendices:
     - ppe.qmd
     - resources-r.qmd
+    - resources-diagnostics.qmd
 
 
 bibliography: references.bib
