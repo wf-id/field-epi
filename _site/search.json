@@ -70,6 +70,28 @@
     ]
   },
   {
+    "objectID": "incident-command.html",
+    "href": "incident-command.html",
+    "title": "3  Incident Command",
+    "section": "",
+    "text": "One of the most critical tasks during an outbreak is organizing the activities. Public health practictioners and experts are typically very interested in responding to an outbreak. This energy needs to be appropriately directed in order to reduce the risk that these efforts detract from oneanother.",
+    "crumbs": [
+      "Organization",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Incident Command</span>"
+    ]
+  },
+  {
+    "objectID": "logistics.html",
+    "href": "logistics.html",
+    "title": "4  Logistics",
+    "section": "",
+    "text": "Logistics",
+    "crumbs": [
+      "Organization",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Logistics</span>"
+    ]
+  },
+  {
     "objectID": "human-epi.html",
     "href": "human-epi.html",
     "title": "Human epidemiology",
@@ -82,56 +104,56 @@
   {
     "objectID": "case-definition.html",
     "href": "case-definition.html",
-    "title": "3  Defining a case",
+    "title": "5  Defining a case",
     "section": "",
     "text": "One of the key aspects of an outbreak investigation is establishing the case definition.",
     "crumbs": [
       "Human epidemiology",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Defining a case</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Defining a case</span>"
     ]
   },
   {
     "objectID": "bioethics.html",
     "href": "bioethics.html",
-    "title": "4  Bioethics during an outbreak",
+    "title": "6  Bioethics during an outbreak",
     "section": "",
     "text": "Ethical considerations are vital during an outbreak in order to preserve the trust of the community",
     "crumbs": [
       "Human epidemiology",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Bioethics during an outbreak</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Bioethics during an outbreak</span>"
     ]
   },
   {
     "objectID": "reporting.html",
     "href": "reporting.html",
-    "title": "5  Reporting",
+    "title": "7  Reporting",
     "section": "",
-    "text": "5.1 Situation Reports",
+    "text": "7.1 Situation Reports",
     "crumbs": [
       "After action",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Reporting</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Reporting</span>"
     ]
   },
   {
     "objectID": "reporting.html#after-action-reports",
     "href": "reporting.html#after-action-reports",
-    "title": "5  Reporting",
-    "section": "5.2 After Action Reports",
-    "text": "5.2 After Action Reports",
+    "title": "7  Reporting",
+    "section": "7.2 After Action Reports",
+    "text": "7.2 After Action Reports",
     "crumbs": [
       "After action",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Reporting</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Reporting</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "6  Conclusion",
+    "title": "8  Conclusion",
     "section": "",
     "text": "Importantly, field epidemiology requires a diverse team from a variety of skillsets in order to be sucessful.",
     "crumbs": [
       "Conclusion",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Conclusion</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Conclusion</span>"
     ]
   },
   {
