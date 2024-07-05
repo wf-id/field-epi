@@ -1,0 +1,3 @@
+# Vector capture
+
+Many infectious diseases may be transmitted through a *vector.*

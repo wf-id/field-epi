@@ -1,0 +1,8 @@
+# Mosquitos
+
+::: {.callout-note title="Infections"}
+- Malaria (*Plasmodium spp.*)
+- Dengue
+- Zika
+- Chikungunya
+:::

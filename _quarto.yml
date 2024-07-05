@@ -29,6 +29,12 @@ book:
       chapters:
         - case-definition.qmd
         - bioethics.qmd
+    - part: vector.qmd
+      chapters:
+        - vector-mosquito.qmd
+        - vector-tick.qmd
+        - vector-rodent.qmd
+        - vector-bat.qmd
     - part: "After action"
       chapters: 
         - reporting.qmd

@@ -1,0 +1,18 @@
+# Ticks and mites
+
+::: {.callout-note title="Infections"}
+**Tick-borne infections**
+- Lyme disease (*Borrellia spp.*)
+- babesiosis
+- ehrlichiosis
+- Rocky Mountain Spotted Fever (*Rickettsia rickettsii*)
+- anaplasmosis
+- Southern Tick-Associated Rash Illness
+- Tick-Borne Relapsing Fever, and tularemia
+- Colorado tick fever
+- Powassan encephalitis
+- Q fever
+  
+**Chiggers**
+- Scrub typhus (*Orientia tsutsugamushi*)
+:::

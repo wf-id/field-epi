@@ -1,3 +1,7 @@
+---
+author: "Someone else?"
+---
+
 # Diagnostics
 
 ## Lateral Flow Assays

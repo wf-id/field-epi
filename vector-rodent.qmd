@@ -1,0 +1,6 @@
+# Rodents and small mammals
+
+::: {.callout-note title="Infections"}
+- Hanta
+- Leptospirosis
+:::
