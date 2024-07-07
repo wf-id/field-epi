@@ -1,8 +1,11 @@
 Imports:
   fs,
+  data.table,
+  tidyverse,
   here,
   rvest,
   flextable,
   knitr,
   rmarkdown,
-  quarto
+  quarto,
+  kableExtra
