@@ -6,3 +6,11 @@
 - Zika
 - Chikungunya
 :::
+
+
+```{r}
+#| echo: false
+#| label: larvaMicroscope
+#| fig-cap: "Anopheles mosquito larva magnified under a microscope"
+knitr::include_graphics("assets/mosquito-larva-microscope.jpg")
+```

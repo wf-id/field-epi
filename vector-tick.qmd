@@ -16,3 +16,12 @@
 **Chiggers**
 - Scrub typhus (*Orientia tsutsugamushi*)
 :::
+
+
+
+```{r}
+#| echo: false
+#| label: tickMicroscope
+#| fig-cap: "Tick magnified under a microscope"
+knitr::include_graphics("assets/tick-identification.jpg")
+```
