@@ -46,7 +46,7 @@ book:
     - ppe.qmd
     - resources-r.qmd
     - resources-diagnostics.qmd
-
+    - glossary.qmd
 
 bibliography: references.bib
 
