@@ -4,9 +4,21 @@
 
 : The United States Centers for Disease Control and Prevention.
 
-[WHO]{#WHO}
+[DOD]{#DOD}
 
-: The World Health Organization
+: The United States Department of Defense
+
+[ELISA]{#ELISA}
+
+: Enzyme-linked Immunosorbent Assay
+
+[GEIS]{#GEIS}
+
+: Global Emerging Infection Surveillance
+
+[LAMP]{#LAMP}
+
+: Loop-mediated isothermal amplification
 
 [PCR]{#PCR}
 
@@ -16,6 +28,6 @@
 
 : Personal Protective Equipment
 
-[GEIS]{#GEIS}
+[WHO]{#WHO}
 
-: Global Emerging Infection Surveillance
+: The World Health Organization
