@@ -8,4 +8,8 @@ Imports:
   knitr,
   rmarkdown,
   quarto,
-  kableExtra
+  kableExtra,
+  gt,
+  ggsci,
+  deSolve,
+  odin
