@@ -35,6 +35,7 @@ jobs:
           GITHUB_PAT: ${{secrets.PAT}}
         run: |
           ./run.sh install_all
+          quarto install tinytex
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
