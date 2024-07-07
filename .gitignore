@@ -51,3 +51,6 @@ rsconnect/
 /.quarto/
 
 ~$*
+
+*.xlsx
+*.docx
