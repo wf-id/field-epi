@@ -1,0 +1,21 @@
+# Glossary {.unnumbered}
+
+[CDC]{#CDC}
+
+: The United States Centers for Disease Control and Prevention.
+
+[WHO]{#WHO}
+
+: The World Health Organization
+
+[PCR]{#PCR}
+
+: Polymerization Chain Reaction. PCR approaches amplify DNA or cDNA (complement DNA from RNA sources).
+
+[PPE]{#PPE}
+
+: Personal Protective Equipment
+
+[GEIS]{#GEIS}
+
+: Global Emerging Infection Surveillance
