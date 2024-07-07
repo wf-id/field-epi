@@ -4,9 +4,9 @@ One of the worst things to happen to a team investigating an outbreak is for a t
 In the best case, everyone on the team has been vaccinated against the likely infections known for the region in which the outbreak occurs.
 Similarly, you may need to take prophylaxis for different pathogens before, during, and after your visit.
 It may also be good to have some common drugs in case a member of the team comes down with an illness.
-The best way to prepare for this is to visit a travel medicine clinic.
+The best way to prepare for this is to visit a [travel medicine clinic](#travel-medicine-clinic).
 
-## Travel medicine clinic
+## Travel medicine clinic {#travelclinic}
 
 [Travel medicine clinics](https://wwwnc.cdc.gov/travel/page/find-clinic) are typically staffed by infectious disease physicians who can recommend different vaccines, prophylaxis, and counseling on what to do in case of emergencies.
 Visits to a travel medicine provider are typically covered by your insurance.
@@ -61,7 +61,7 @@ tab1[[1]] |>
 
 ## Packing for your travel
 
-### Perscription Medications
+### Prescription Medications
 
 ### Medical supplies
 
@@ -70,6 +70,30 @@ tab1[[1]] |>
 ### First Aid
 
 ### Documentation
+
+It is important that you have all of your documentation along with additional copies of your documentation.
+
+**Passport** you should make sure that you have a valid passport with at least 6 months of time before it expires (at the time of your visit). Additionally, you should make several copies of the identification page of your passport. It is important that you do not have both the copies and your physical passport on you at the same time when traveling. Having paper copies of your passport on you while in the field can prevent your actual passport from being stolen.
+
+**Visas** check with your embassy and relationship of your home country with the country you are visiting. For example, U.S. citizens visiting Peru can check the [U.S. State Departments webpage](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Peru.html). At the time of writing, you can stay without a visa for between 30 and 183 days. If you are not a U.S. citizen, it is essential that you contact your embassy and discuss what is required in order to enter the country (e.g., for Peru [you can see some of those nationals that might require an additional visa application](https://www.consulado.pe/es/londres/tramite/Paginas/Visas/Issuance-of-Tourist-Visa.aspx)).
+
+**Copies of prescriptions** for the medications that you are taking abroad. Some medicines might be illegal in the country you are visiting and therefore it is important that you have proper documentation for them prior to going. Additionally, if you are a physician bringing medications it is important that you claim these on entry if asked.
+
+## Travel insurance
+
+It is important that you verify that you have international health insurance before you go.
+The United States government [**does not** provide insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) and your domestic policy will likely not cover you when you are abroad.
+If you are attending the course, the university should help to arrange for international traveler's insurance (e.g., companies like [GeoBlue](https://www.geobluetravelinsurance.com) among others).
+The [CDC](glossary.qmd#CDC) has more [comphrehensive guides](https://wwwnc.cdc.gov/travel/page/insurance) on their travel webpage.
+
+## Fitness preparation
+
+During field responses you will spend a lot of time on your feet in relatively warm conditions (i.e., 8-12 hours a day in the field).
+This is compounded by the fact that you will likely be in long pants, long sleeves, and hiking shoes or boots to protect yourself from insects.
+As such a base level of physical fitness and acclimation is recommended before you go.
+This might take the form of walking or running a few miles a day outdoors in the months leading up to your departure.
+You know your body better than anyone and some level of preparation goes a long way before you are in the field.
+
 
 
 
