@@ -1,0 +1,8 @@
+Imports:
+  fs,
+  here,
+  rvest,
+  flextable,
+  knitr,
+  rmarkdown,
+  quarto

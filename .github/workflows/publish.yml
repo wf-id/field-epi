@@ -8,6 +8,13 @@ name: Quarto Publish
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      RENV_PATHS_ROOT: ~/.local/share/renv
+      LANG: "en_US.UTF-8"
+      LC_ALL: "en_US.UTF-8"
+      USE_BSPM: "true"
+      _R_CHECK_FORCE_SUGGESTS_: "false"
     permissions:
       contents: write
     steps:
@@ -17,6 +24,17 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Bootstrap
+        run: |
+            chmod 0755 run.sh
+            ./run.sh bootstrap
+      - name: Install system dependencies
+        if: runner.os == 'Linux'
+        env:
+          RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
+          GITHUB_PAT: ${{secrets.PAT}}
+        run: |
+          ./run.sh install_all
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
