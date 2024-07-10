@@ -1,3 +1,10 @@
 # About this book
 
 This book is designed to accompany the International Field Epidemiology course.
+
+## A note about outbreaks
+
+Field epidemiology has an express purpose-- stop the outbreak while preserving the most human life as possible.
+In this way field epidemiology and outbreak response is more of an exercise in *engineering*.
+Rigorous scientific approaches and knowns are applied with a clear goal.
+*Research* might be conducted, but it is secondary to the objective of stopping the outbreak.
