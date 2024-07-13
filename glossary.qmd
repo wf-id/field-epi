@@ -12,6 +12,10 @@
 
 : Enzyme-linked Immunosorbent Assay
 
+[Epidemic]{#epidemic}
+
+: More cases of a particular disease or infection spread across a large geographic area.
+
 [GEIS]{#GEIS}
 
 : Global Emerging Infection Surveillance
@@ -20,9 +24,17 @@
 
 : Loop-mediated isothermal amplification
 
+[Outbreak]{#outbreak}
+
+: The occurance of more cases than expected in a particular geographic area, group of people or animals, over some period of time.
+
 [PCR]{#PCR}
 
 : Polymerization Chain Reaction. PCR approaches amplify DNA or cDNA (complement DNA from RNA sources).
+
+[Pseuoepidemic]{#pseudoepidemic}
+
+: The phenomenon that describes when a series of cases have a pattern of reporting that mimics that of an epidemic or outbreak, but are the result of coincidence, changes in reporting practices, or some other artefact. This can result in the expense of resources (both people and materials) that this unnecessary highlighting the importance of conducting the diagnosis confirmation and verification of an outbreak.
 
 [PPE]{#PPE}
 
