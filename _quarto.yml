@@ -27,6 +27,7 @@ book:
         - logistics.qmd
     - part: human-epi.qmd
       chapters:
+        - ten-steps.qmd
         - case-definition.qmd
         - bioethics.qmd
     - part: vector.qmd

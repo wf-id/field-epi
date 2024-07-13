@@ -5,6 +5,8 @@
 - Dengue
 - Zika
 - Chikungunya
+- Mayaro
+- Rift Valley
 :::
 
 
