@@ -1,3 +1,5 @@
 # Vector capture
 
+<!--# BB: Consider changing chapter title to Vector and Wildlife reservoir capture since including bats, mice etc -->
+
 Many infectious diseases may be transmitted through a *vector.*

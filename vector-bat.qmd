@@ -1,2 +1,57 @@
 # Bats
 
+::: {.callout-note title="Infections"}
+-   Rabies
+-   Nipah
+-   Hendra
+-   Coronaviruses (MERS, SARS, COVID)
+-   Ebola
+-   Marburg
+-   Histoplasma capsulatum
+:::
+
+<!--# good ref: www.nature.com/articles/cddiscovery201648 -->
+
+## Biology
+
+Bats are the only mammals capable of true flight. Found on all continents with the exception of Antarctica, there are over 1400 species of bats worldwide. Bat species exhibit enormous diversity, ranging in size from 2g to nearly 1.5kg. Most bat species eat either insects, fruit, or nector.
+
+::: {.callout-note title="Fun fact"}
+In addition to being the only mammals that can truly fly, and the unique sensory adaptations for echolocation, bats have several remarkable features. They have live longer life-spans (up to 40 years!) than other species of a similar size and have enormous metabolic rates during flight. Fascinatingly, they carry a wide-range of human transmissible viruses, but rarely are affected clinically themselves. The unique immune and metabolic features that allow them to tolerate viruses and have marked longevity is an area of active research.
+:::
+
+## Infectious diseases
+
+### Rabies
+
+Rabies virus causes fatal neurological disease in all mammalian species. Transmitted through infectious saliva (generally through a bite from an infected animal), the virus is distributed in wildlife reservoirs globally. Approximately 59,000 humans die annually from rabies primarily in Africa and Asia; over 99% are attributable to bites from rabid dogs. Rabies is generally considered fatal with onset of clinical symptoms; the Milwaukee protocol can be attempted to rescue symptomatic humans but no treatment exists for animal species. Death generally occurs in most species within 10 days of clinical sign onset. Rabies is entirely vaccine preventable through vaccination; not only is pre-exposure vaccination effective, but due to the pathogenesis mechanism leading to a long (weeks to months) incubation period, post-exposure prophylaxis quickly after exposure is also effective in protecting against disease development.
+
+Bats are a major wildlife reservoir for rabies in the Americas. Most human rabies cases in the United States are attributable to a bite from a rabid bat. Vampire bats in Central and South Americas are major transmitters of rabies, especially to livestock, because of their feeding habits: they bite their prey in order to lap up blood.
+
+::: {.callout-note title="Fun fact"}
+Bats generally tolerate most viruses without any clinical manifestations. Rabies is an exception - bats do get sick and die from rabies. However, though rabies is generally considered fatal, there are well-documented viral neutralizing antibodies in non-vaccinated bats, suggesting that some bats exposed to rabies will mount an immune response and survive.
+:::
+
+*References*
+
+[World Health Organization](https://www.who.int/news-room/fact-sheets/detail/rabies) 
+
+[Davis et al, 2012](www.ncbi.nlm.nih.gov/pmc/articles/PMC3249890/)
+
+### Nipah
+
+Nipah virus is an emerging pathogen that can cause severe encephalitis with or without respiratory involvement and a reported fatality rate of up to 40%. Nipah virus was first recognized in Malaysia in 1998. The emergence of the virus demonstrates the complex interactions between people, animals, and the environment that characterizes One Health. Fruit trees planted in close proximity to pig farms attracted a fruit-eating bat species, "Flying Foxes," the wildlife reservoir of Nipah. The leading belief about Nipah emergence is that fruit dropped by the Flying Foxes into the pig enclosures were subsequently eaten by the pigs accompanied with Nipah exposure and infection. Infectious pigs could then transmit to humans who came into contact causing an outbreak. There have been subsequent Nipah outbreaks in Bangladesh, associated with date palm sap contaminated with Flying Fox saliva during the collection process.
+
+### Hendra
+
+### Coronaviruses (MERS, SARS, COVID)
+
+### Ebola
+
+### Marburg
+
+### Histoplasma capsulatum
+
+## Study methods
+
+### Capture

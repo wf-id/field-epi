@@ -156,12 +156,12 @@
   {
     "objectID": "vector-mosquito.html",
     "href": "vector-mosquito.html",
-    "title": "7  Mosquitos",
+    "title": "8  Mosquitos",
     "section": "",
-    "text": "Infections\n\n\n\n\nMalaria (Plasmodium spp.)\nDengue\nZika\nChikungunya\n\n\n\n\n\n\n\n\nAnopheles mosquito larva magnified under a microscope",
+    "text": "Infections\n\n\n\n\nMalaria (Plasmodium spp.)\nDengue\nZika\nChikungunya\nMayaro\nRift Valley\n\n\n\n\n\n\n\n\nAnopheles mosquito larva magnified under a microscope",
     "crumbs": [
       "Vector capture",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Mosquitos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
     ]
   },
   {
@@ -335,5 +335,49 @@
     "title": "About this book",
     "section": "",
     "text": "This book is designed to accompany the International Field Epidemiology course."
+  },
+  {
+    "objectID": "vector-bat.html",
+    "href": "vector-bat.html",
+    "title": "11  Bats",
+    "section": "",
+    "text": "11.1 Biology\nBats are the only mammals capable of true flight. Found on all continents with the exception of Antarctica, there are over 1400 species of bats worldwide. Bat species exhibit enormous diversity, ranging in size from 2g to nearly 1.5kg. Most bat species eat either insects, fruit, or nector.",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Bats</span>"
+    ]
+  },
+  {
+    "objectID": "vector-bat.html#biology",
+    "href": "vector-bat.html#biology",
+    "title": "11  Bats",
+    "section": "",
+    "text": "Fun fact\n\n\n\nIn addition to being the only mammals that can truly fly, and the unique sensory adaptations for echolocation, bats have several remarkable features. They have live longer life-spans (up to 40 years!) than other species of a similar size and have enormous metabolic rates during flight. Fascinatingly, they carry a wide-range of human transmissible viruses, but rarely are affected clinically themselves. The unique immune and metabolic features that allow them to tolerate viruses and have marked longevity is an area of active research.",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Bats</span>"
+    ]
+  },
+  {
+    "objectID": "vector-bat.html#infectious-diseases",
+    "href": "vector-bat.html#infectious-diseases",
+    "title": "11  Bats",
+    "section": "11.2 Infectious diseases",
+    "text": "11.2 Infectious diseases\n\n11.2.1 Rabies\nRabies virus causes fatal neurological disease in all mammalian species. Transmitted through infectious saliva (generally through a bite from an infected animal), the virus is distributed in wildlife reservoirs globally. Approximately 59,000 humans die annually from rabies primarily in Africa and Asia; over 99% are attributable to bites from rabid dogs. Rabies is generally considered fatal with onset of clinical symptoms; the Milwaukee protocol can be attempted to rescue symptomatic humans but no treatment exists for animal species. Death generally occurs in most species within 10 days of clinical sign onset. Rabies is entirely vaccine preventable through vaccination; not only is pre-exposure vaccination effective, but due to the pathogenesis mechanism leading to a long (weeks to months) incubation period, post-exposure prophylaxis quickly after exposure is also effective in protecting against disease development.\nBats are a major wildlife reservoir for rabies in the Americas. Most human rabies cases in the United States are attributable to a bite from a rabid bat. Vampire bats in Central and South Americas are major transmitters of rabies, especially to livestock, because of their feeding habits: they bite their prey in order to lap up blood.\n\n\n\n\n\n\nFun fact\n\n\n\nBats generally tolerate most viruses without any clinical manifestations. Rabies is an exception - bats do get sick and die from rabies. However, though rabies is generally considered fatal, there are well-documented viral neutralizing antibodies in non-vaccinated bats, suggesting that some bats exposed to rabies will mount an immune response and survive.\n\n\nReferences\nWorld Health Organization \nDavis et al, 2012\n\n\n11.2.2 Nipah\nNipah virus is an emerging pathogen that can cause severe encephalitis with or without respiratory involvement and a reported fatality rate of up to 40%. Nipah virus was first recognized in Malaysia in 1998. The emergence of the virus demonstrates the complex interactions between people, animals, and the environment that characterizes One Health. Fruit trees planted in close proximity to pig farms attracted a fruit-eating bat species, “Flying Foxes,” the wildlife reservoir of Nipah. The leading belief about Nipah emergence is that fruit dropped by the Flying Foxes into the pig enclosures were subsequently eaten by the pigs accompanied with Nipah exposure and infection. Infectious pigs could then transmit to humans who came into contact causing an outbreak. There have been subsequent Nipah outbreaks in Bangladesh, associated with date palm sap contaminated with Flying Fox saliva during the collection process.\n\n\n11.2.3 Hendra\n\n\n11.2.4 Coronaviruses (MERS, SARS, COVID)\n\n\n11.2.5 Ebola\n\n\n11.2.6 Marburg\n\n\n11.2.7 Histoplasma capsulatum",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Bats</span>"
+    ]
+  },
+  {
+    "objectID": "vector-bat.html#study-methods",
+    "href": "vector-bat.html#study-methods",
+    "title": "11  Bats",
+    "section": "11.3 Study methods",
+    "text": "11.3 Study methods\n\n11.3.1 Capture",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Bats</span>"
+    ]
   }
 ]
