@@ -185,7 +185,7 @@ knitr::include_graphics("assets/Bats_Ebolavirus.jpg")
 ```
 
 ### Histoplasmosis
-Histoplasma capsulatum is a fungal pathogen that is often transmitted to humans 
+Histoplasma capsulatum is a fungal pathogen that can be transmitted to humans 
 and companion animals through inhalation of bat guano. 
 Clinical manifestations include fever and respiratory disease. 
 
@@ -198,21 +198,30 @@ These nets are a very fine weave strung between two poles that is practically
 invisible to the eye and by echolocation. 
 Used to capture both birds and bats, the animal flies into them and becomes entangled. 
 The animals need to be promptly and expertly removed from the net in order to prevent 
-- Other nets?
-- Traps
-- Hand capture
-
+injury.
 ```{r, echo=FALSE}
 #| echo: false
-#| label: Bat_capture
-#| fig-cap: "Top: Bat caught in mist net; Bottom: Harp trap. 
-#| Photo credit (harp trap): Rob and Stephanie Levy, cc-by-2.0."
+#| label: mist_nets
+#| fig-cap: "Bat caught in mist net"
 
 knitr::include_graphics("assets/cover.jpg")
+``` 
+
+- Harp traps capture bats as the are flying and then deposit them safely in the 
+tarp slung underneath. 
+There are many variations of the Harp trap often modified for specific species. 
+```{r, echo=FALSE}
+#| echo: false
+#| label: Harp_traps
+#| fig-cap: "Harp trap. Photo credit: Rob and Stephanie Levy, cc-by-2.0."
+
 knitr::include_graphics("assets/Bat_HarpTrap.jpg")
 ``` 
 
+- Hand capture
+
+
 ### Recording
-- audio capture
+- acoustic surveys
 - camera trap
 
