@@ -10,8 +10,6 @@
 -   Histoplasma capsulatum
 :::
 
-<!--# good ref: www.nature.com/articles/cddiscovery201648 -->
-
 ## Biology
 
 Bats are the only mammals capable of true flight. 
@@ -20,6 +18,13 @@ species of bats worldwide.
 Bat species exhibit enormous diversity, ranging in size from 2g to nearly 1.5kg. 
 Most bat species eat either insects, fruit, or nector.
 
+```{r}
+#| echo: false
+#| label: BatAnatomy
+#| fig-cap: "Mammalian forearm bone structure is remarkably conserved across species. 
+#| Photo credit: National Park Service."
+knitr::include_graphics("assets/Bat_ComparitiveAnatomy.jpg")
+```
 ::: {.callout-note title="Fun fact"}
 In addition to being the only mammals that can truly fly, and the unique sensory 
 adaptations for echolocation, bats have several remarkable features. 
@@ -49,6 +54,7 @@ pre-exposure vaccination effective, but due to the pathogenesis mechanism
 leading to a long (weeks to months) incubation period, post-exposure prophylaxis 
 quickly after exposure is also effective in protecting against disease 
 development.
+(REF WHO, 2018, Technical report)
 
 Bats are a major wildlife reservoir for rabies in the Americas. 
 Most human rabies cases in the United States are attributable to a bite from a 
@@ -56,20 +62,16 @@ rabid bat.
 Vampire bats in Central and South Americas are major transmitters of rabies, 
 especially to livestock, because of their feeding habits: they bite their prey 
 in order to lap up blood.
+(REF WHO, 2018, Technical report)
 
 ::: {.callout-note title="Fun fact"}
 Bats generally tolerate most viruses without any clinical manifestations. 
 Rabies is an exception - bats do get sick and die from rabies. 
 However, though rabies is generally considered fatal, there are well-documented 
 viral neutralizing antibodies in non-vaccinated bats, suggesting that some bats 
-exposed to rabies will mount an immune response and survive.
+exposed to rabies will mount an immune response and survive. 
+(REF Davis, 2012, 10.1089/vbz.2011.0674)
 :::
-
-*References*
-
-[World Health Organization](https://www.who.int/news-room/fact-sheets/detail/rabies) 
-
-[Davis et al, 2012](www.ncbi.nlm.nih.gov/pmc/articles/PMC3249890/)
 
 ### Nipah
 
@@ -87,6 +89,7 @@ Infectious pigs could then transmit to humans who came into contact causing an
 outbreak. 
 There have been subsequent Nipah outbreaks in Bangladesh, associated with date 
 palm sap contaminated with Flying Fox saliva during the collection process.
+(REF Daszak, 2012, 10.1073/pnas.1201243109)
 
 ### Hendra
 Hendra virus is an emerging pathogen that can cause a range of clinical signs 
@@ -98,6 +101,7 @@ saliva on partially eaten fruit dropped into pastures.
 Though outbreaks have been rare, forward transmission to other horses and humans 
 have been reported. 
 The disease was first diagnosed in 1994. 
+(REF Field, 2001, 10.1016/S1286-4579(01)01384-3)
 
 ```{r}
 #| echo: false
@@ -107,8 +111,6 @@ The disease was first diagnosed in 1994.
 #| Photo credit: Johannes Giez."
 knitr::include_graphics("assets/Bat_FlyingFox.jpg")
 ```
-
-  
 
 ### Coronaviruses 
 Coronaviruses cause a range of diseases from common colds in humans to severe 
@@ -146,28 +148,74 @@ infections, largely in the Arabian penninsula.
 MERS-CoV continues to cause sporadic cases and local outbreaks.
 (REF: Memish, 2020, 10.1016/S0140-6736(19)33221-0)
 
-**COVID-19** (caused by SARS-CoV-2) origins are still under investigation, there is 
-a body of evidence that spillover occurred from horseshoe bats to raccoon dogs 
-then humans in a wet market in Wuhan, China. (REF Looi 2024, 10.1136/bmj.q1578)
+**COVID-19** (caused by SARS-CoV-2) origins are still under investigation, there 
+is evidence that spillover occurred from horseshoe bats to raccoon dogs then 
+humans in a wet market in Wuhan, China. (REF Looi 2024, 10.1136/bmj.q1578)
 Sustained human to human transmission expanded to a global scale by 2020 with the 
 COVID-19 pandemic causing widespread infection and mortality. 
 
-### Ebola
+### Hemorrhagic fevers caused by filoviruses
+Filoviruses, the pathogen family responsible for both Ebolavirus and 
+Marburgvirus, are considered to primarily circulate among fruit bat reservoirs. 
+Spillover to primates, including humans, can cause serious hemorrhagic fever. 
+
+*Ebola* was first recognized in the 1970's with several outbreaks occuring in 
+the succeeding decades. 
+Notably, in 2014, a large outbreak in West Africa was declared a Public Health 
+emergency of International Concern by the WHO. 
+More than 28,600 people were infected during the outbreak with a case mortality 
+rate approaching 40%.
+The mortality of Ebolavirus without treatment reaches 90%. 
+(REF Kalra, 2014, 10.4103/0974-777X.145247; CDC, 2024, Outbreak History)
+
+*Marburg virus disease* presents clinically similar to Ebola with hemorrhagic 
+fever and high case mortality (ranging from 24-88%). 
+The disease was first recognized in Germany in the late 1960s. 
+Rousettus bats are believed to be the main wildlife reservoir. 
+(REF WHO, 2021, Factsheet)
+
 ```{r}
 #| echo: false
 #| label: Bat_Ebolavirus
-#| fig-cap: "Filoviruses, including Ebolaviruses and Marburgviruses, have a distinctive 
-#| filamentous struture. 
+#| fig-cap: "Filoviruses, including Ebolaviruses and Marburgviruses, have a 
+#| distinctive filamentous struture. 
 #| Pictured is an electron microscope image of an Ebolavirus. 
 #| Photo credit: CDC."
 knitr::include_graphics("assets/Bats_Ebolavirus.jpg")
 ```
 
-
-### Marburg
-
-### Histoplasma capsulatum
+### Histoplasmosis
+Histoplasma capsulatum is a fungal pathogen that is often transmitted to humans 
+and companion animals through inhalation of bat guano. 
+Clinical manifestations include fever and respiratory disease. 
 
 ## Study methods
 
 ### Capture
+- Mist nets  
+The most common method for capturing bats for wildlife studies is through mist nets. 
+These nets are a very fine weave strung between two poles that is practically 
+invisible to the eye and by echolocation. 
+Used to capture both birds and bats, the animal flies into them and becomes entangled. 
+The animals need to be promptly and expertly removed from the net in order to prevent 
+- Other nets?
+- Traps
+- Hand capture
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+#| echo: false
+#| label: Bat_capture
+#| fig-cap: "Left: Bat caught in mist net; Right: Harp trap. 
+#| Photo credit (harp trap): Rob and Stephanie Levy, cc-by-2.0."
+
+
+library(magick)
+p1 <- cowplot::ggdraw() + cowplot::draw_image("assets/cover.jpg", scale = 0.9)
+p2 <- cowplot::ggdraw() + cowplot::draw_image("assets/Bat_HarpTrap.jpg", scale = 0.9)
+ggpubr::ggarrange(p1,p2, ncol=2)
+``` 
+
+### Recording
+- audio capture
+- camera trap
+
