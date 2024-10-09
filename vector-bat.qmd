@@ -202,17 +202,14 @@ The animals need to be promptly and expertly removed from the net in order to pr
 - Traps
 - Hand capture
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
+```{r, echo=FALSE}
 #| echo: false
 #| label: Bat_capture
-#| fig-cap: "Left: Bat caught in mist net; Right: Harp trap. 
+#| fig-cap: "Top: Bat caught in mist net; Bottom: Harp trap. 
 #| Photo credit (harp trap): Rob and Stephanie Levy, cc-by-2.0."
 
-
-library(magick)
-p1 <- cowplot::ggdraw() + cowplot::draw_image("assets/cover.jpg", scale = 0.9)
-p2 <- cowplot::ggdraw() + cowplot::draw_image("assets/Bat_HarpTrap.jpg", scale = 0.9)
-ggpubr::ggarrange(p1,p2, ncol=2)
+knitr::include_graphics("assets/cover.jpg")
+knitr::include_graphics("assets/Bat_HarpTrap.jpg")
 ``` 
 
 ### Recording
