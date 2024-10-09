@@ -23,8 +23,8 @@ Most bat species eat either insects, fruit, or nector.
 ::: {.callout-note title="Fun fact"}
 In addition to being the only mammals that can truly fly, and the unique sensory 
 adaptations for echolocation, bats have several remarkable features. 
-They have live longer life-spans (up to 40 years!) than other species of a 
-similar size and have enormous metabolic rates during flight. 
+They live longer life-spans (up to 40 years!) than other species of a similar 
+size and have enormous metabolic rates during flight. 
 Fascinatingly, they carry a wide-range of human transmissible viruses, but 
 rarely are affected clinically themselves. 
 The unique immune and metabolic features that allow them to tolerate viruses 
@@ -89,10 +89,80 @@ There have been subsequent Nipah outbreaks in Bangladesh, associated with date
 palm sap contaminated with Flying Fox saliva during the collection process.
 
 ### Hendra
+Hendra virus is an emerging pathogen that can cause a range of clinical signs 
+in humans and in horses from mild influenza-like syndromes to fatal respiratory 
+and neurlogical disease. 
+Similar to Nipah virus, Flying fox are the reservoir species for Hendra. 
+Horses can become infected through exposure to Flying Fox bodily fluids, such as 
+saliva on partially eaten fruit dropped into pastures. 
+Though outbreaks have been rare, forward transmission to other horses and humans 
+have been reported. 
+The disease was first diagnosed in 1994. 
 
-### Coronaviruses (MERS, SARS, COVID)
+```{r}
+#| echo: false
+#| label: FlyingFox
+#| fig-cap: "Nipah and Hendra are both linked to Flying Fox bats dropping 
+#| partially massicated fruit into animal enclosures. 
+#| Photo credit: Johannes Giez."
+knitr::include_graphics("assets/Bat_FlyingFox.jpg")
+```
+
+  
+
+### Coronaviruses 
+Coronaviruses cause a range of diseases from common colds in humans to severe 
+gastrointestinal disease in neonatal livestock. 
+Coronaviruses are a large virus family that circulates in numerous animal 
+opulations, including many bat species. 
+Though bats generally are not affected clinically, spillover to other animals, 
+ave historically caused catastrophic human epidemics. 
+Three recent infamous coronavirus spillovers from bats into humans through an 
+intermediary highlight the pandemic potential of these viruses: SARS, MERS, and 
+COVID-19. All three of these syndromes are characterized by mild to severe 
+respiratory disease. 
+
+**SARS** (severe acute respiratory syndrome) emerged in 2002 in the Guangdong 
+Province in China. 
+Characterized by large super-spreading events, the virus (SARS-CoV-1) spread to 
+29 countries and infected over 8000 people, killing over 900. 
+(REF: Cherry, 2004. 10.1203/01.PDR.0000129184.87042.FC)
+Scientific research identified horseshoe bats as the wildlife reservoir; spillover
+to humans was mediated through the intermediary of palm civets from horseshoe bats.
+(REF: Lau, 2005. 0.1073/pnas.0506735102)
+
+::: {.callout-note title="Fun fact"}
+Interestingly, SARS was last diagnosed in 2004, and has since disappeared, 
+with no new cases being detected in the last 20 years, a feat only achieved 
+on purpose for 2 viruses through enormous coordinated vaccination efforts.
+:::
+
+**MERS** (Middle-Eastern Respiratory Syndrome) was first recognized in Saudi 
+Arabia in 2012. MERS-CoV is suspected to spillover to humans from contact with 
+camelids, with camelids originally acquiring the virus from bats. 
+(REF Corman, 2014, 10.1128/JVI.01498-14). 
+Characterized by a high death rate (34.3%), MERS has caused nearly 2.5 thousand
+infections, largely in the Arabian penninsula.
+MERS-CoV continues to cause sporadic cases and local outbreaks.
+(REF: Memish, 2020, 10.1016/S0140-6736(19)33221-0)
+
+**COVID-19** (caused by SARS-CoV-2) origins are still under investigation, there is 
+a body of evidence that spillover occurred from horseshoe bats to raccoon dogs 
+then humans in a wet market in Wuhan, China. (REF Looi 2024, 10.1136/bmj.q1578)
+Sustained human to human transmission expanded to a global scale by 2020 with the 
+COVID-19 pandemic causing widespread infection and mortality. 
 
 ### Ebola
+```{r}
+#| echo: false
+#| label: Bat_Ebolavirus
+#| fig-cap: "Filoviruses, including Ebolaviruses and Marburgviruses, have a distinctive 
+#| filamentous struture. 
+#| Pictured is an electron microscope image of an Ebolavirus. 
+#| Photo credit: CDC."
+knitr::include_graphics("assets/Bats_Ebolavirus.jpg")
+```
+
 
 ### Marburg
 
