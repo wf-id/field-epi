@@ -132,11 +132,22 @@
     ]
   },
   {
+    "objectID": "ten-steps.html",
+    "href": "ten-steps.html",
+    "title": "5  Ten Steps of a Field Investigation",
+    "section": "",
+    "text": "The CDC Field Epidemiology Manual outlines 10 steps of a field investigation for an outbreak.\nSource: Field Epi Manual\nStep 1: Prepare for Field Work\nBefore beginning a field investigation, ensure all involved parties understand the purpose, roles, and responsibilities. Obtain necessary official approvals, including a formal invitation from an authorized official, and consult with laboratory colleagues about testing and safety protocols.\nStep 2: Confirm the Diagnosis\nVerification of the diagnosis ensures that the issue is properly identified and not a misdiagnosis. This can be achieved through interviews, clinical exams, medical records, and laboratory tests, and specimens should be preserved for later analysis.\nStep 3: Determine the Existence of an Outbreak\nDetermine if an outbreak exists by comparing the number of cases to expected numbers, using historical data or surveillance records. This helps rule out pseudoepidemics caused by misdiagnosis or reporting issues.\nStep 4: Identify and Count Cases\nCreate a clear case definition and systematically search for all cases of the disease without including non-cases. This involves classifying cases based on symptoms, timing, and exposure settings and compiling the data into a structured format for analysis.\nStep 5: Tabulate and Orient the Data in Terms of Time, Place, and Person\nOrganize the collected data into an epidemiologic description that focuses on time, place, and person. This includes creating epidemic curves, spot maps, and comparing groups to form initial hypotheses about the outbreak’s cause and spread.\nStep 6: Consider Whether Control Measures can be Implemented Now\nControl measures can target either the source of the disease or susceptible individuals through interventions like treatment, isolation, vaccination, or prophylaxis. While typically implemented after confirming hypotheses, preliminary control measures can be initiated based on early information to prevent further spread.\nStep 7: Develop and Test Hypotheses\nDevelop hypotheses about the cause, source, and mode of transmission of the outbreak based on various sources, including descriptive epidemiology and interviews. Testing these hypotheses through analytic studies like cohort or case-control studies helps confirm risk factors and causal associations.\nStep 9: Implement and Evaluate Control and Prevention Measures\nThe goal of an investigation is to implement and evaluate effective control measures to prevent further morbidity or mortality. Ongoing evaluation, including active surveillance, helps assess the effectiveness of these measures and guides necessary adjustments.\nStep 10: Communicate Findings\nEffective communication is essential throughout and after an outbreak investigation. Establishing a clear communications plan and a designated spokesperson ensures consistency in sharing findings with the public, stakeholders, and other relevant authorities, including through briefings and written reports.",
+    "crumbs": [
+      "Human epidemiology",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Ten Steps of a Field Investigation</span>"
+    ]
+  },
+  {
     "objectID": "case-definition.html",
     "href": "case-definition.html",
     "title": "6  Defining a case",
     "section": "",
-    "text": "One of the key aspects of an outbreak investigation is establishing the case definition.",
+    "text": "6.1 CDC’s Outbreak and Case Definition guide:\nOne of the key aspects of an outbreak investigation is establishing the case definition. A case definition describes a set of standardized criteria to determine if an individual should be counted in the outbreak under investigation. The key components of a case definition are who (the individual), where (location), when (time frame), and what (symptoms, diagnostics).\nFor detailed information on formulating a case definition and example case definitions, see the CDC’s guidelines on developing a case definition:",
     "crumbs": [
       "Human epidemiology",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Defining a case</span>"
@@ -147,7 +158,7 @@
     "href": "bioethics.html",
     "title": "7  Bioethics during an outbreak",
     "section": "",
-    "text": "Ethical considerations are vital during an outbreak in order to preserve the trust of the community",
+    "text": "7.1 Summarized WHO guidelines\nEthical considerations are vital during an outbreak in order to preserve the trust of the community. The World Health Organization has published a consensus statment on guidelines for establishing respectful partnerships with local communities and leaders while implementing evidence-based containment strategies.\nWHO Consenses statement\n1. Obligations of Governments and the International Community: Governments have a duty to prevent and respond to infectious disease outbreaks through improved health systems and public health activities and contribute to global surveillance and preparedness. These obligations extend beyond national borders, as infectious diseases can spread globally, and wealthier countries are have ethical obligations to assist poorer nations in enhancing their health capacities.\n2. Involving the Local Community: Community engagement is crucial for building trust and social order during an outbreak. A community-centered approach involves inclusiveness, openness, transparency, and accountability, and ensures diverse perspectives are considered, with the media playing a key role in providing accurate, timely information.\n3. Situations of Particular Vulnerability: Vulnerable individuals or groups face heightened risks during outbreaks, including difficulties accessing services, communication barriers, and the threat of stigmatization. Efforts should focus on addressing these challenges through targeted support, ensuring equitable access, and preventing discrimination or violence.\n4. Allocating Scarce Resources: During outbreaks, resource allocation decisions must balance utility (maximizing benefits) and equity (fair distribution), with special attention to vulnerable populations.\n5. Public Health Surveillance: Surveillance is critical for managing and preventing outbreaks, but it must be ethically managed to protect personal information and ensure transparency in its use. Ethical oversight should balance public health goals with individual rights and vulnerabilities.\n6. Restrictions on Freedom of Movement: Restrictions like quarantine or travel bans should only be imposed when scientifically justified, using the least restrictive methods possible, and with humane conditions and support for those affected. They must be applied equitably, with opportunities for due process and transparency.\n7. Obligations Related to Medical Interventions: Medical interventions during outbreaks must meet high standards, and individuals should have the right to refuse them, unless refusal poses significant public health risks. Any overridden refusals must be carefully justified, with due process and attention to individual and community impacts.\n8. Research during Infectious Disease Outbreaks: Research during outbreaks is essential to inform public health responses and evaluate interventions, but it must be ethically conducted, respecting participants’ rights and integrating with the broader outbreak response efforts. Ethical oversight, informed consent, local capacity-building, and transparent data sharing are critical to ensuring that research supports both immediate and long-term public health goals.\n9. Emergency Use of Unproven Interventions Outside of Research: Offering unproven interventions outside of clinical trials is ethically acceptable during emergencies when no proven treatments are available, but it requires ethical oversight, informed consent, and transparent data sharing. Such interventions should be administered cautiously, with careful consideration of risks, benefits, and resource allocation.\n10. Rapid Data Sharing: During infectious disease outbreaks, rapid data sharing is critical for understanding the disease, predicting its spread, and guiding public health responses. Ethical issues related to this include ensuring privacy, data confidentiality, and resolving disputes over data ownership, while supporting international cooperation for timely sharing.\n11. Long-Term Storage of Biological Specimens: The long-term storage of biological specimens offers valuable research opportunities but raises ethical concerns about confidentiality, informed consent, and community trust. Engaging local communities, ensuring proper governance, and implementing material transfer agreements are crucial for ethically managing the storage and sharing of biospecimens.\n12. Addressing Sex- and Gender-Based Differences: Sex and gender influence the course and outcome of infectious disease outbreaks, affecting susceptibility, health care access, and interventions. Public health responses should include sex- and gender-sensitive surveillance, reproductive health services, inclusive research strategies, and tailored communication to address differential risks and needs.\n13. Frontline Response Workers’ Rights and Obligations: Frontline workers during infectious disease outbreaks have the right to protection, fair remuneration, and access to healthcare for themselves and their families. In return, society has an obligation to minimize risks, ensure adequate support, and help workers reintegrate post-outbreak, while considering the equity of risk distribution and potential consequences for non-participation.\n14. Ethical Issues in Deploying Foreign Humanitarian Aid Workers: Foreign humanitarian aid organizations must coordinate with local officials, ensure that workers are adequately trained and informed, and provide necessary resources for safe and effective deployment. Aid workers also have ethical obligations to adhere to their roles, maintain infection control practices, and ensure the wellbeing of affected communities while considering the ethical challenges of working in crises.",
     "crumbs": [
       "Human epidemiology",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Bioethics during an outbreak</span>"
@@ -175,11 +186,33 @@
     ]
   },
   {
+    "objectID": "vector-mosquito.html#biology",
+    "href": "vector-mosquito.html#biology",
+    "title": "8  Mosquitos",
+    "section": "",
+    "text": "8.1.1 Aedes\n\n\n\n\n\nAedes spp. mosquitos transmit a wide range of diseases: chikungunya, dengue, and Zika among others. Photo credit: NIAID.",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
+    ]
+  },
+  {
     "objectID": "vector-mosquito.html#infectious-diseases",
     "href": "vector-mosquito.html#infectious-diseases",
     "title": "8  Mosquitos",
     "section": "8.2 Infectious diseases",
     "text": "8.2 Infectious diseases\n\n8.2.1 Malaria\n\n\n8.2.2 Dengue\n\n\n8.2.3 Zika\n\n\n8.2.4 Chickungunya\n\n\n8.2.5 Mayaro\n\n\n8.2.6 Rift Valley Fever\n\n\n8.2.7 West Nile Virus",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
+    ]
+  },
+  {
+    "objectID": "vector-mosquito.html#study-methods",
+    "href": "vector-mosquito.html#study-methods",
+    "title": "8  Mosquitos",
+    "section": "8.3 Study methods",
+    "text": "8.3 Study methods\nThe CDC has published an overview of methods for mosquito surveillance:",
     "crumbs": [
       "Vector capture",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
