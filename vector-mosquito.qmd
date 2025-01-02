@@ -16,3 +16,21 @@
 #| fig-cap: "Anopheles mosquito larva magnified under a microscope"
 knitr::include_graphics("assets/mosquito-larva-microscope.jpg")
 ```
+
+## Biology
+
+## Infectious diseases
+
+### Malaria
+
+### Dengue
+
+### Zika
+
+### Chickungunya
+
+### Mayaro
+
+### Rift Valley Fever
+
+### West Nile Virus

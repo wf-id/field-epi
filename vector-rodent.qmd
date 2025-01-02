@@ -4,3 +4,25 @@
 - Hanta
 - Leptospirosis
 :::
+
+## Biology
+
+```{r, echo=FALSE}
+#| echo: false
+#| label: field_mouse
+#| fig-cap: "Field mouse, Photo credit: Nick Fewings"
+
+knitr::include_graphics("assets/FieldMouse.jpg")
+```
+
+## Infectious Diseases
+
+
+```{r, echo=FALSE}
+#| echo: false
+#| label: Armadillo
+#| fig-cap: "Armadillos are the only mammal besides humans known to carry *Mycobacterium leprae*, the causative agent of leprosy, Photo credit: Lily Miller"
+
+knitr::include_graphics("assets/Armadillo.jpg")
+```
+## Study Methods

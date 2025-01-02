@@ -178,12 +178,12 @@
   {
     "objectID": "vector-rodent.html",
     "href": "vector-rodent.html",
-    "title": "9  Rodents and small mammals",
+    "title": "10  Rodents and small mammals",
     "section": "",
-    "text": "Infections\n\n\n\n\nHanta\nLeptospirosis",
+    "text": "10.1 Biology\nField mouse, Photo credit: Nick Fewings",
     "crumbs": [
       "Vector capture",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Rodents and small mammals</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Rodents and small mammals</span>"
     ]
   },
   {
@@ -374,10 +374,32 @@
     "href": "vector-bat.html#study-methods",
     "title": "11  Bats",
     "section": "11.3 Study methods",
-    "text": "11.3 Study methods\n\n11.3.1 Capture\n\nMist nets\nThe most common method for capturing bats for wildlife studies is through mist nets. These nets are a very fine weave strung between two poles that is practically invisible to the eye and by echolocation. Used to capture both birds and bats, the animal flies into them and becomes entangled. The animals need to be promptly and expertly removed from the net in order to prevent injury.\n\n\n\n\n\n\nBat caught in mist net\n\n\n\n\n\nHarp traps capture bats as the are flying and then deposit them safely in the tarp slung underneath. There are many variations of the Harp trap often modified for specific species.\n\n\n\n\n\n\nHarp trap. Photo credit: Rob and Stephanie Levy, cc-by-2.0.\n\n\n\n\n\nHand capture\n\n\n\n11.3.2 Recording\n\nacoustic surveys\ncamera trap",
+    "text": "11.3 Study methods\n\n11.3.1 Capture\n\nMist nets The most common method for capturing bats for wildlife studies is through mist nets. These nets are a very fine weave strung between two poles that is practically invisible to the eye and by echolocation. Used to capture both birds and bats, the animal flies into them and becomes entangled. The animals need to be promptly and expertly removed from the net in order to prevent injury.\n\n\n\n\n\n\nBat caught in mist net\n\n\n\n\n\nHarp traps capture bats as the are flying and then deposit them safely in the tarp slung underneath. There are many variations of the Harp trap often modified for specific species.\n\n\n\n\n\n\nHarp trap. Photo credit: Rob and Stephanie Levy, cc-by-2.0.\n\n\n\n\n\nHand capture\n\n\n\n11.3.2 Recording\n\nacoustic surveys\ncamera trap",
     "crumbs": [
       "Vector capture",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Bats</span>"
+    ]
+  },
+  {
+    "objectID": "vector-rodent.html#infectious-diseases",
+    "href": "vector-rodent.html#infectious-diseases",
+    "title": "10  Rodents and small mammals",
+    "section": "10.2 Infectious Diseases",
+    "text": "10.2 Infectious Diseases\n\n\n\n\n\nArmadillos are the only mammal besides humans known to carry Mycobacterium leprae, the causative agent of leprosy, Photo credit: Lily Miller",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Rodents and small mammals</span>"
+    ]
+  },
+  {
+    "objectID": "vector-rodent.html#study-methods",
+    "href": "vector-rodent.html#study-methods",
+    "title": "10  Rodents and small mammals",
+    "section": "10.3 Study Methods",
+    "text": "10.3 Study Methods",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Rodents and small mammals</span>"
     ]
   }
 ]

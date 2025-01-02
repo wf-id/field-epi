@@ -12,11 +12,7 @@
 
 ## Biology
 
-Bats are the only mammals capable of true flight. 
-Found on all continents with the exception of Antarctica, there are over 1400 
-species of bats worldwide. 
-Bat species exhibit enormous diversity, ranging in size from 2g to nearly 1.5kg. 
-Most bat species eat either insects, fruit, or nector.
+Bats are the only mammals capable of true flight. Found on all continents with the exception of Antarctica, there are over 1400 species of bats worldwide. Bat species exhibit enormous diversity, ranging in size from 2g to nearly 1.5kg. Most bat species eat either insects, fruit, or nector.
 
 ```{r}
 #| echo: false
@@ -25,83 +21,30 @@ Most bat species eat either insects, fruit, or nector.
 #| Photo credit: National Park Service."
 knitr::include_graphics("assets/Bat_ComparitiveAnatomy.jpg")
 ```
+
 ::: {.callout-note title="Fun fact"}
-In addition to being the only mammals that can truly fly, and the unique sensory 
-adaptations for echolocation, bats have several remarkable features. 
-They live longer life-spans (up to 40 years!) than other species of a similar 
-size and have enormous metabolic rates during flight. 
-Fascinatingly, they carry a wide-range of human transmissible viruses, but 
-rarely are affected clinically themselves. 
-The unique immune and metabolic features that allow them to tolerate viruses 
-and have marked longevity is an area of active research.
+In addition to being the only mammals that can truly fly, and the unique sensory adaptations for echolocation, bats have several remarkable features. They live longer life-spans (up to 40 years!) than other species of a similar size and have enormous metabolic rates during flight. Fascinatingly, they carry a wide-range of human transmissible viruses, but rarely are affected clinically themselves. The unique immune and metabolic features that allow them to tolerate viruses and have marked longevity is an area of active research.
 :::
 
 ## Infectious diseases
 
 ### Rabies
 
-Rabies virus causes fatal neurological disease in all mammalian species. 
-Transmitted through infectious saliva (generally through a bite from an infected 
-animal), the virus is distributed in wildlife reservoirs globally. 
-Approximately 59,000 humans die annually from rabies primarily in Africa and 
-Asia; over 99% are attributable to bites from rabid dogs. 
-Rabies is generally considered fatal with onset of clinical symptoms; the 
-Milwaukee protocol can be attempted to rescue symptomatic humans but no 
-treatment exists for animal species. 
-Death generally occurs in most species within 10 days of clinical sign onset. 
-Rabies is entirely vaccine preventable through vaccination; not only is 
-pre-exposure vaccination effective, but due to the pathogenesis mechanism 
-leading to a long (weeks to months) incubation period, post-exposure prophylaxis 
-quickly after exposure is also effective in protecting against disease 
-development.
-(REF WHO, 2018, Technical report)
+Rabies virus causes fatal neurological disease in all mammalian species. Transmitted through infectious saliva (generally through a bite from an infected animal), the virus is distributed in wildlife reservoirs globally. Approximately 59,000 humans die annually from rabies primarily in Africa and Asia; over 99% are attributable to bites from rabid dogs. Rabies is generally considered fatal with onset of clinical symptoms; the Milwaukee protocol can be attempted to rescue symptomatic humans but no treatment exists for animal species. Death generally occurs in most species within 10 days of clinical sign onset. Rabies is entirely vaccine preventable through vaccination; not only is pre-exposure vaccination effective, but due to the pathogenesis mechanism leading to a long (weeks to months) incubation period, post-exposure prophylaxis quickly after exposure is also effective in protecting against disease development. (REF WHO, 2018, Technical report)
 
-Bats are a major wildlife reservoir for rabies in the Americas. 
-Most human rabies cases in the United States are attributable to a bite from a 
-rabid bat. 
-Vampire bats in Central and South Americas are major transmitters of rabies, 
-especially to livestock, because of their feeding habits: they bite their prey 
-in order to lap up blood.
-(REF WHO, 2018, Technical report)
+Bats are a major wildlife reservoir for rabies in the Americas. Most human rabies cases in the United States are attributable to a bite from a rabid bat. Vampire bats in Central and South Americas are major transmitters of rabies, especially to livestock, because of their feeding habits: they bite their prey in order to lap up blood. (REF WHO, 2018, Technical report)
 
 ::: {.callout-note title="Fun fact"}
-Bats generally tolerate most viruses without any clinical manifestations. 
-Rabies is an exception - bats do get sick and die from rabies. 
-However, though rabies is generally considered fatal, there are well-documented 
-viral neutralizing antibodies in non-vaccinated bats, suggesting that some bats 
-exposed to rabies will mount an immune response and survive. 
-(REF Davis, 2012, 10.1089/vbz.2011.0674)
+Bats generally tolerate most viruses without any clinical manifestations. Rabies is an exception - bats do get sick and die from rabies. However, though rabies is generally considered fatal, there are well-documented viral neutralizing antibodies in non-vaccinated bats, suggesting that some bats exposed to rabies will mount an immune response and survive. (REF Davis, 2012, 10.1089/vbz.2011.0674)
 :::
 
 ### Nipah
 
-Nipah virus is an emerging pathogen that can cause severe encephalitis with or 
-without respiratory involvement and a reported fatality rate of up to 40-75%. 
-Nipah virus was first recognized in Malaysia in 1998. 
-The emergence of the virus demonstrates the complex interactions between people, 
-animals, and the environment that characterizes One Health.
-Fruit trees planted in close proximity to pig farms attracted a fruit-eating bat 
-species, "Flying Foxes," the wildlife reservoir of Nipah. 
-The leading belief about Nipah emergence is that fruit dropped by the Flying 
-Foxes into the pig enclosures were subsequently eaten by the pigs accompanied 
-with Nipah exposure and infection. 
-Infectious pigs could then transmit to humans who came into contact causing an 
-outbreak. 
-There have been subsequent Nipah outbreaks in Bangladesh, associated with date 
-palm sap contaminated with Flying Fox saliva during the collection process.
-(REF Daszak, 2012, 10.1073/pnas.1201243109)
+Nipah virus is an emerging pathogen that can cause severe encephalitis with or without respiratory involvement and a reported fatality rate of up to 40-75%. Nipah virus was first recognized in Malaysia in 1998. The emergence of the virus demonstrates the complex interactions between people, animals, and the environment that characterizes One Health. Fruit trees planted in close proximity to pig farms attracted a fruit-eating bat species, "Flying Foxes," the wildlife reservoir of Nipah. The leading belief about Nipah emergence is that fruit dropped by the Flying Foxes into the pig enclosures were subsequently eaten by the pigs accompanied with Nipah exposure and infection. Infectious pigs could then transmit to humans who came into contact causing an outbreak. There have been subsequent Nipah outbreaks in Bangladesh, associated with date palm sap contaminated with Flying Fox saliva during the collection process. (REF Daszak, 2012, 10.1073/pnas.1201243109)
 
 ### Hendra
-Hendra virus is an emerging pathogen that can cause a range of clinical signs 
-in humans and in horses from mild influenza-like syndromes to fatal respiratory 
-and neurlogical disease. 
-Similar to Nipah virus, Flying fox are the reservoir species for Hendra. 
-Horses can become infected through exposure to Flying Fox bodily fluids, such as 
-saliva on partially eaten fruit dropped into pastures. 
-Though outbreaks have been rare, forward transmission to other horses and humans 
-have been reported. 
-The disease was first diagnosed in 1994. 
-(REF Field, 2001, 10.1016/S1286-4579(01)01384-3)
+
+Hendra virus is an emerging pathogen that can cause a range of clinical signs in humans and in horses from mild influenza-like syndromes to fatal respiratory and neurlogical disease. Similar to Nipah virus, Flying fox are the reservoir species for Hendra. Horses can become infected through exposure to Flying Fox bodily fluids, such as saliva on partially eaten fruit dropped into pastures. Though outbreaks have been rare, forward transmission to other horses and humans have been reported. The disease was first diagnosed in 1994. (REF Field, 2001, 10.1016/S1286-4579(01)01384-3)
 
 ```{r}
 #| echo: false
@@ -112,67 +55,27 @@ The disease was first diagnosed in 1994.
 knitr::include_graphics("assets/Bat_FlyingFox.jpg")
 ```
 
-### Coronaviruses 
-Coronaviruses cause a range of diseases from common colds in humans to severe 
-gastrointestinal disease in neonatal livestock. 
-Coronaviruses are a large virus family that circulates in numerous animal 
-opulations, including many bat species. 
-Though bats generally are not affected clinically, spillover to other animals, 
-ave historically caused catastrophic human epidemics. 
-Three recent infamous coronavirus spillovers from bats into humans through an 
-intermediary highlight the pandemic potential of these viruses: SARS, MERS, and 
-COVID-19. All three of these syndromes are characterized by mild to severe 
-respiratory disease. 
+### Coronaviruses
 
-**SARS** (severe acute respiratory syndrome) emerged in 2002 in the Guangdong 
-Province in China. 
-Characterized by large super-spreading events, the virus (SARS-CoV-1) spread to 
-29 countries and infected over 8000 people, killing over 900. 
-(REF: Cherry, 2004. 10.1203/01.PDR.0000129184.87042.FC)
-Scientific research identified horseshoe bats as the wildlife reservoir; spillover
-to humans was mediated through the intermediary of palm civets from horseshoe bats.
-(REF: Lau, 2005. 0.1073/pnas.0506735102)
+Coronaviruses cause a range of diseases from common colds in humans to severe gastrointestinal disease in neonatal livestock. Coronaviruses are a large virus family that circulates in numerous animal opulations, including many bat species. Though bats generally are not affected clinically, spillover to other animals, ave historically caused catastrophic human epidemics. Three recent infamous coronavirus spillovers from bats into humans through an intermediary highlight the pandemic potential of these viruses: SARS, MERS, and COVID-19. All three of these syndromes are characterized by mild to severe respiratory disease.
+
+**SARS** (severe acute respiratory syndrome) emerged in 2002 in the Guangdong Province in China. Characterized by large super-spreading events, the virus (SARS-CoV-1) spread to 29 countries and infected over 8000 people, killing over 900. (REF: Cherry, 2004. 10.1203/01.PDR.0000129184.87042.FC) Scientific research identified horseshoe bats as the wildlife reservoir; spillover to humans was mediated through the intermediary of palm civets from horseshoe bats. (REF: Lau, 2005. 0.1073/pnas.0506735102)
 
 ::: {.callout-note title="Fun fact"}
-Interestingly, SARS was last diagnosed in 2004, and has since disappeared, 
-with no new cases being detected in the last 20 years, a feat only achieved 
-on purpose for 2 viruses through enormous coordinated vaccination efforts.
+Interestingly, SARS was last diagnosed in 2004, and has since disappeared, with no new cases being detected in the last 20 years, a feat only achieved on purpose for 2 viruses through enormous coordinated vaccination efforts.
 :::
 
-**MERS** (Middle-Eastern Respiratory Syndrome) was first recognized in Saudi 
-Arabia in 2012. MERS-CoV is suspected to spillover to humans from contact with 
-camelids, with camelids originally acquiring the virus from bats. 
-(REF Corman, 2014, 10.1128/JVI.01498-14). 
-Characterized by a high death rate (34.3%), MERS has caused nearly 2.5 thousand
-infections, largely in the Arabian penninsula.
-MERS-CoV continues to cause sporadic cases and local outbreaks.
-(REF: Memish, 2020, 10.1016/S0140-6736(19)33221-0)
+**MERS** (Middle-Eastern Respiratory Syndrome) was first recognized in Saudi Arabia in 2012. MERS-CoV is suspected to spillover to humans from contact with camelids, with camelids originally acquiring the virus from bats. (REF Corman, 2014, 10.1128/JVI.01498-14). Characterized by a high death rate (34.3%), MERS has caused nearly 2.5 thousand infections, largely in the Arabian penninsula. MERS-CoV continues to cause sporadic cases and local outbreaks. (REF: Memish, 2020, 10.1016/S0140-6736(19)33221-0)
 
-**COVID-19** (caused by SARS-CoV-2) origins are still under investigation, there 
-is evidence that spillover occurred from horseshoe bats to raccoon dogs then 
-humans in a wet market in Wuhan, China. (REF Looi 2024, 10.1136/bmj.q1578)
-Sustained human to human transmission expanded to a global scale by 2020 with the 
-COVID-19 pandemic causing widespread infection and mortality. 
+**COVID-19** (caused by SARS-CoV-2) origins are still under investigation, there is evidence that spillover occurred from horseshoe bats to raccoon dogs then humans in a wet market in Wuhan, China. (REF Looi 2024, 10.1136/bmj.q1578) Sustained human to human transmission expanded to a global scale by 2020 with the COVID-19 pandemic causing widespread infection and mortality.
 
 ### Hemorrhagic fevers caused by filoviruses
-Filoviruses, the pathogen family responsible for both Ebolavirus and 
-Marburgvirus, are considered to primarily circulate among fruit bat reservoirs. 
-Spillover to primates, including humans, can cause serious hemorrhagic fever. 
 
-*Ebola* was first recognized in the 1970's with several outbreaks occuring in 
-the succeeding decades. 
-Notably, in 2014, a large outbreak in West Africa was declared a Public Health 
-emergency of International Concern by the WHO. 
-More than 28,600 people were infected during the outbreak with a case mortality 
-rate approaching 40%.
-The mortality of Ebolavirus without treatment reaches 90%. 
-(REF Kalra, 2014, 10.4103/0974-777X.145247; CDC, 2024, Outbreak History)
+Filoviruses, the pathogen family responsible for both Ebolavirus and Marburgvirus, are considered to primarily circulate among fruit bat reservoirs. Spillover to primates, including humans, can cause serious hemorrhagic fever.
 
-*Marburg virus disease* presents clinically similar to Ebola with hemorrhagic 
-fever and high case mortality (ranging from 24-88%). 
-The disease was first recognized in Germany in the late 1960s. 
-Rousettus bats are believed to be the main wildlife reservoir. 
-(REF WHO, 2021, Factsheet)
+*Ebola* was first recognized in the 1970's with several outbreaks occuring in the succeeding decades. Notably, in 2014, a large outbreak in West Africa was declared a Public Health emergency of International Concern by the WHO. More than 28,600 people were infected during the outbreak with a case mortality rate approaching 40%. The mortality of Ebolavirus without treatment reaches 90%. (REF Kalra, 2014, 10.4103/0974-777X.145247; CDC, 2024, Outbreak History)
+
+*Marburg virus disease* presents clinically similar to Ebola with hemorrhagic fever and high case mortality (ranging from 24-88%). The disease was first recognized in Germany in the late 1960s. Rousettus bats are believed to be the main wildlife reservoir. (REF WHO, 2021, Factsheet)
 
 ```{r}
 #| echo: false
@@ -185,43 +88,37 @@ knitr::include_graphics("assets/Bats_Ebolavirus.jpg")
 ```
 
 ### Histoplasmosis
-Histoplasma capsulatum is a fungal pathogen that can be transmitted to humans 
-and companion animals through inhalation of bat guano. 
-Clinical manifestations include fever and respiratory disease. 
+
+Histoplasma capsulatum is a fungal pathogen that can be transmitted to humans and companion animals through inhalation of bat guano. Clinical manifestations include fever and respiratory disease.
 
 ## Study methods
 
 ### Capture
-- Mist nets  
-The most common method for capturing bats for wildlife studies is through mist nets. 
-These nets are a very fine weave strung between two poles that is practically 
-invisible to the eye and by echolocation. 
-Used to capture both birds and bats, the animal flies into them and becomes entangled. 
-The animals need to be promptly and expertly removed from the net in order to prevent 
-injury.
+
+-   Mist nets
+    The most common method for capturing bats for wildlife studies is through mist nets. These nets are a very fine weave strung between two poles that is practically invisible to the eye and by echolocation. Used to capture both birds and bats, the animal flies into them and becomes entangled. The animals need to be promptly and expertly removed from the net in order to prevent injury.
+
 ```{r, echo=FALSE}
 #| echo: false
 #| label: mist_nets
 #| fig-cap: "Bat caught in mist net"
 
 knitr::include_graphics("assets/cover.jpg")
-``` 
+```
 
-- Harp traps capture bats as the are flying and then deposit them safely in the 
-tarp slung underneath. 
-There are many variations of the Harp trap often modified for specific species. 
+-   Harp traps capture bats as the are flying and then deposit them safely in the tarp slung underneath. There are many variations of the Harp trap often modified for specific species.
+
 ```{r, echo=FALSE}
 #| echo: false
 #| label: Harp_traps
 #| fig-cap: "Harp trap. Photo credit: Rob and Stephanie Levy, cc-by-2.0."
 
 knitr::include_graphics("assets/Bat_HarpTrap.jpg")
-``` 
+```
 
-- Hand capture
-
+-   Hand capture
 
 ### Recording
-- acoustic surveys
-- camera trap
 
+-   acoustic surveys
+-   camera trap
