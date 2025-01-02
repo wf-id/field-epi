@@ -19,6 +19,15 @@ knitr::include_graphics("assets/mosquito-larva-microscope.jpg")
 
 ## Biology
 
+### *Aedes*
+```{r}
+#| echo: false
+#| label: Aedes
+#| fig-cap: "*Aedes* spp. mosquitos transmit a wide range of diseases: chikungunya, dengue, and Zika among others.
+#| Photo credit: NIAID."
+knitr::include_graphics("assets/Aedes.jpg")
+```  
+
 ## Infectious diseases
 
 ### Malaria
@@ -34,3 +43,10 @@ knitr::include_graphics("assets/mosquito-larva-microscope.jpg")
 ### Rift Valley Fever
 
 ### West Nile Virus
+
+## Study methods
+The CDC has published an overview of methods for mosquito surveillance: 
+```{=html}
+<iframe width="780" height="500" src="https://www.cdc.gov/mosquitoes/php/toolkit/mosquito-surveillance-traps.html" title="CDC Mosquito Surveillance"></iframe>
+```
+

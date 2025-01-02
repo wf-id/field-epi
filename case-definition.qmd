@@ -1,3 +1,13 @@
+
 # Defining a case
 
-One of the key aspects of an outbreak investigation is establishing the case definition.
+One of the key aspects of an outbreak investigation is establishing the case definition. 
+A case definition describes a set of standardized criteria to determine if an individual should be counted in the outbreak under investigation. 
+The key components of a case definition are who (the individual), where (location), when (time frame), and what (symptoms, diagnostics).
+
+
+## CDC's Outbreak and Case Definition guide:
+For detailed information on formulating a case definition and example case definitions, see the CDC's guidelines on developing a case definition:
+```{=html}
+<iframe width="780" height="500" src="https://www.cdc.gov/urdo/php/surveillance/outbreak-case-definitions.html" title="CDC Case definition"></iframe>
+```
