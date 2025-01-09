@@ -13,7 +13,7 @@
 ```{r}
 #| echo: false
 #| label: larvaMicroscope
-#| fig-cap: "Anopheles mosquito larva magnified under a microscope"
+#| fig-cap: "Anopheles mosquitoes larva magnified under a microscope"
 knitr::include_graphics("assets/mosquito-larva-microscope.jpg")
 ```
 
@@ -23,9 +23,27 @@ knitr::include_graphics("assets/mosquito-larva-microscope.jpg")
 ```{r}
 #| echo: false
 #| label: Aedes
-#| fig-cap: "*Aedes* spp. mosquitos transmit a wide range of diseases: chikungunya, dengue, and Zika among others.
+#| fig-cap: "*Aedes* spp. mosquitoes transmit a wide range of diseases: chikungunya, dengue, and Zika among others.
 #| Photo credit: NIAID."
 knitr::include_graphics("assets/Aedes.jpg")
+```  
+
+### *Anopheles*
+```{r}
+#| echo: false
+#| label: Anopheles
+#| fig-cap: "*Anopheles* spp., primarily *A. gambiae* and *A. stephensi*, are the vectors of malaria.
+#| Photo credit: Jim Gathany."
+knitr::include_graphics("assets/Anopheles.jpeg")
+```  
+
+### *Culex*
+```{r}
+#| echo: false
+#| label: Culex
+#| fig-cap: "*Culex* spp. mosquitoes transmit a wide range of diseases: West Nile viruse, St. Louis encephalitis, and Rift Valley Fever among others.
+#| Photo credit: NIAID."
+knitr::include_graphics("assets/Culex.jpg")
 ```  
 
 ## Infectious diseases
