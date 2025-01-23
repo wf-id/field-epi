@@ -1,7 +1,7 @@
-# Ticks and mites
+# Other arthropod vectors
 
 ::: {.callout-note title="Infections"}
-**Tick-borne infections**
+**Ticks**
 - Lyme disease (*Borrellia spp.*)
 - babesiosis
 - ehrlichiosis
@@ -15,9 +15,17 @@
   
 **Chiggers**
 - Scrub typhus (*Orientia tsutsugamushi*)
+
+**Biting midge**
+- Oropouche virus
+
+**Kissing bugs**
+- Chagas disease
+
+**Sand flies**
+- Leishmaniasis
+- Oroya fever
 :::
-
-
 
 ```{r}
 #| echo: false
@@ -25,3 +33,15 @@
 #| fig-cap: "Tick magnified under a microscope"
 knitr::include_graphics("assets/tick-identification.jpg")
 ```
+
+## Biology
+
+## Insects
+### Mosquitos
+### Sand flies
+### Midges
+### Triatomines
+
+## Arachnids
+### Ticks
+### Mites and midges
