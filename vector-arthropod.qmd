@@ -24,12 +24,6 @@
 ## Arachnids
 ### Ticks
 ### Mites
-```{r}
-#| echo: false
-#| label: chigger
-#| fig-cap: "Adult and larval chigger on pin head for size comparison. Photo credit: Dr. Cornelius B. Philip"
-knitr::include_graphics("assets/chigger.tif")
-```
 
 ## Insects
 ### Mosquitos
