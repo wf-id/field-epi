@@ -1,0 +1,55 @@
+# Other arthropod vectors
+
+::: {.callout-note title="Infections"}
+
+  
+**Chiggers**  
+- Scrub typhus (*Orientia tsutsugamushi*)
+
+**Biting midge**  
+- Oropouche virus
+
+**Kissing bugs**  
+- Chagas disease
+
+**Sand flies**  
+- Leishmaniasis  
+- Oroya fever  
+
+
+:::
+
+
+## Biology
+## Arachnids
+### Ticks
+### Mites
+```{r}
+#| echo: false
+#| label: chigger
+#| fig-cap: "Adult and larval chigger on pin head for size comparison. Photo credit: Dr. Cornelius B. Philip"
+knitr::include_graphics("assets/chigger.tif")
+```
+
+## Insects
+### Mosquitos
+### Sand flies
+### Midges
+### Triatomines
+```{r}
+#| echo: false
+#| label: triatomine
+#| fig-cap: "Adult triatomine"
+knitr::include_graphics("assets/triatomine.tif")
+```
+
+
+## Infectious disease
+### Scrub typhus (*Orientia tsutsugamushi*)
+### Oropouche virus
+### Chagas disease
+### Leishmaniasis
+### Oroya fever
+
+
+## Study Methods

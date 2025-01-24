@@ -34,6 +34,7 @@ book:
       chapters:
         - vector-mosquito.qmd
         - vector-tick.qmd
+        - vector-arthropod.qmd
         - vector-rodent.qmd
         - vector-bat.qmd
     - part: "After action"

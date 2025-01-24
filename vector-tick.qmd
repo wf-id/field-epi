@@ -1,30 +1,17 @@
-# Other arthropod vectors
+# Ticks
 
 ::: {.callout-note title="Infections"}
-**Ticks**
 - Lyme disease (*Borrellia spp.*)
-- babesiosis
-- ehrlichiosis
+- Babesiosis
+- Ehrlichiosis
 - Rocky Mountain Spotted Fever (*Rickettsia rickettsii*)
-- anaplasmosis
+- Anaplasmosis
 - Southern Tick-Associated Rash Illness
-- Tick-Borne Relapsing Fever, and tularemia
+- Tick-Borne Relapsing Fever
+- Tularemia
 - Colorado tick fever
 - Powassan encephalitis
 - Q fever
-  
-**Chiggers**
-- Scrub typhus (*Orientia tsutsugamushi*)
-
-**Biting midge**
-- Oropouche virus
-
-**Kissing bugs**
-- Chagas disease
-
-**Sand flies**
-- Leishmaniasis
-- Oroya fever
 :::
 
 ```{r}
@@ -36,12 +23,30 @@ knitr::include_graphics("assets/tick-identification.jpg")
 
 ## Biology
 
-## Insects
-### Mosquitos
-### Sand flies
-### Midges
-### Triatomines
+### Common tick species and distributions
 
-## Arachnids
-### Ticks
-### Mites and midges
+## Infectious disease
+
+### Lyme disease (*Borrellia spp.*)
+
+### babesiosis
+
+### ehrlichiosis
+
+### Rocky Mountain Spotted Fever (*Rickettsia rickettsii*)
+
+### anaplasmosis
+
+### Southern Tick-Associated Rash Illness
+
+### Tick-Borne Relapsing Fever
+
+### Tularemia
+
+### Colorado tick fever
+
+### Powassan encephalitis
+
+### Q fever
+
+## Study Methods

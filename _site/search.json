@@ -146,11 +146,11 @@
   {
     "objectID": "vector.html",
     "href": "vector.html",
-    "title": "Vector capture",
+    "title": "Vectors and reservoirs",
     "section": "",
-    "text": "Many infectious diseases may be transmitted through a vector.",
+    "text": "Many infectious diseases may be transmitted through a vector. A vector is an organism that acts as a carrier of an infectious agent between organisms of a different species (Wilson, 2017). Most commonly, vectors are arthropods, such as mosquitos or ticks. Vectors can serve as a purely mechanical transport between individuals or can serve as a necessary intermediate in the pathogens lifecycle.\nA reservoir is the environment in which a pathogen population in maintained and could include humans, animals, and the environment (CDC, 2012). Many emerging pathogens have wildlife reservoirs, i.e. the pathogen circulates in a wild animal population normally with some risk of spillover to people. Pathogens that can be transmitted between vertebrate hosts and humans are considered zoonoses. Zoonotic diseases are often (but not always) transmitted by a vector.",
     "crumbs": [
-      "Vector capture"
+      "Vectors and reservoirs"
     ]
   },
   {
@@ -160,19 +160,19 @@
     "section": "",
     "text": "8.1 Biology",
     "crumbs": [
-      "Vector capture",
+      "Vectors and reservoirs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
     ]
   },
   {
     "objectID": "vector-tick.html",
     "href": "vector-tick.html",
-    "title": "8  Ticks and mites",
+    "title": "9  Ticks",
     "section": "",
-    "text": "Infections\n\n\n\nTick-borne infections - Lyme disease (Borrellia spp.) - babesiosis - ehrlichiosis - Rocky Mountain Spotted Fever (Rickettsia rickettsii) - anaplasmosis - Southern Tick-Associated Rash Illness - Tick-Borne Relapsing Fever, and tularemia - Colorado tick fever - Powassan encephalitis - Q fever\nChiggers - Scrub typhus (Orientia tsutsugamushi)\n\n\n\n\n\n\n\nTick magnified under a microscope",
+    "text": "9.1 Biology",
     "crumbs": [
       "Vector capture",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Ticks and mites</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ticks</span>"
     ]
   },
   {
@@ -462,9 +462,9 @@
     "href": "vector-mosquito.html#infectious-diseases",
     "title": "8  Mosquitos",
     "section": "8.2 Infectious diseases",
-    "text": "8.2 Infectious diseases\n\n8.2.1 Malaria\n\n\n8.2.2 Dengue\n\n\n8.2.3 Zika\n\n\n8.2.4 Chickungunya\n\n\n8.2.5 Mayaro\n\n\n8.2.6 Rift Valley Fever\n\n\n8.2.7 West Nile Virus",
+    "text": "8.2 Infectious diseases\n\n8.2.1 Malaria\nPathogen: Plasmodium sp. unicellular protozoan, the greatest being attributable to P. falciparum and P. vivex\nVector: female Anopheles sp. mosquitos\nClinical manifestations: There is a varied incubation period from 7-30 days between bite of an infectious mosquito and onset of clinical symptoms. Disease can range from mild (fever, chills, headaches, malaise) to severe (seizures, shock, organ failure, DIC, severe anemia, pulmonary edema/ARDS).\nEpidemiology:\nTreatment/prevention:\n\n\n8.2.2 Dengue\nPathogen: Dengue virus\nVector: female Aedes sp. mosquitoes, primarily Aedes aegypti but increased transmission by Aedes albopictus.\nClinical manifestations: Fever, joint pain, rash\nEpidemiology:\nTreatment/prevention:\n\n\n8.2.3 Zika\nPathogen: Zika virus\nVector: Aedes sp. mosquitoes, primarily Aedes aegypti\nClinical manifestations: Fever, joint/muscle pain, rash, conjunctivitis, malaise, headache. Infection during pregnancy can lead to congenital malformations in the infant (congenital Zika syndrome)\nEpidemiology:\nTreatment/prevention:\n\n\n8.2.4 Chickungunya\nPathogen:\nVector: Aedes sp. mosquitoes, primarily Aedes aegypti and Aedes albopictus\nClinical manifestations: fever, joint pain, muscle pain, headache, nausea, fatigue, rash Epidemiology:\nTreatment/prevention: Supportive care for clinical symptoms, one vaccine licensed in US\n\n\n8.2.5 Mayaro\nPathogen: Mayaro virus Vector: Haemagogus species mosquitoes Clinical manifestations: Most commonly mild illness: fever, headache, muscle ache, chills, rash Epidemiology:\nTreatment/prevention: supportive care for clinical symptoms, prevention focused on limiting mosquito bites (no vaccine)\n\n\n\n\n\nMayaro virus has been found in Brazil, Bolivia, Colombia, Ecuador, French Guiana, Haiti, Peru, Suriname, Trinidad and Tobago, and Venezuela. Photo credit: CDC.\n\n\n\n\n\n\n8.2.6 Rift Valley Fever\nPathogen:\nVector:\nClinical manifestations:\nEpidemiology:\nTreatment/prevention:\n\n\n8.2.7 West Nile Virus\nPathogen:\nVector:\nClinical manifestations:\nEpidemiology:\nTreatment/prevention:\n\n\n8.2.8 Lymphatic filariasis\nPathogen:\nVector:\nClinical manifestations:\nEpidemiology:\nTreatment/prevention:\n\n\n8.2.9 O’nyong’nyong virus\nPathogen:\nVector:\nClinical manifestations:\nEpidemiology:\nTreatment/prevention:\n\n\n8.2.10 West Nile Fever\nPathogen:\nVector:\nClinical manifestations:\nEpidemiology:\nTreatment/prevention:",
     "crumbs": [
-      "Vector capture",
+      "Vectors and reservoirs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
     ]
   },
@@ -475,7 +475,7 @@
     "section": "8.3 Study methods",
     "text": "8.3 Study methods\nThe CDC has published an overview of methods for mosquito surveillance:",
     "crumbs": [
-      "Vector capture",
+      "Vectors and reservoirs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
     ]
   },
@@ -486,7 +486,7 @@
     "section": "",
     "text": "8.1.1 Aedes\n\n\n\n\n\nAedes spp. mosquitoes transmit a wide range of diseases: chikungunya, dengue, and Zika among others. Photo credit: NIAID.\n\n\n\n\n\n\n8.1.2 Anopheles\n\n\n\n\n\nAnopheles spp., primarily A. gambiae and A. stephensi, are the vectors of malaria. Photo credit: Jim Gathany.\n\n\n\n\n\n\n8.1.3 Culex\n\n\n\n\n\nCulex spp. mosquitoes transmit a wide range of diseases: West Nile viruse, St. Louis encephalitis, and Rift Valley Fever among others. Photo credit: NIAID.",
     "crumbs": [
-      "Vector capture",
+      "Vectors and reservoirs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Mosquitos</span>"
     ]
   },
@@ -498,6 +498,116 @@
     "text": "2.4 Joining the Smart Traveler Enrollment Program\nThe U.S. State Department also",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Before you go</span>"
+    ]
+  },
+  {
+    "objectID": "vector-tick.html#insects",
+    "href": "vector-tick.html#insects",
+    "title": "9  Other arthropod vectors",
+    "section": "9.3 Insects",
+    "text": "9.3 Insects\n\n9.3.1 Mosquitos\n\n\n9.3.2 Sand flies\n\n\n9.3.3 Midges\n\n\n9.3.4 Triatomines\n\n\n\n\n\nAdult triatomine",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other arthropod vectors</span>"
+    ]
+  },
+  {
+    "objectID": "vector-tick.html#arachnids",
+    "href": "vector-tick.html#arachnids",
+    "title": "9  Other arthropod vectors",
+    "section": "9.2 Arachnids",
+    "text": "9.2 Arachnids\n\n9.2.1 Ticks\n\n\n9.2.2 Mites\n\n\n\n\n\nAdult and larval chigger on pin head for size comparison. Photo credit: Dr. Cornelius B. Philip",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Other arthropod vectors</span>"
+    ]
+  },
+  {
+    "objectID": "vector-tick.html#infectious-disease",
+    "href": "vector-tick.html#infectious-disease",
+    "title": "9  Ticks",
+    "section": "9.2 Infectious disease",
+    "text": "9.2 Infectious disease\n\n9.2.1 Lyme disease (Borrellia spp.)\n\n\n9.2.2 babesiosis\n\n\n9.2.3 ehrlichiosis\n\n\n9.2.4 Rocky Mountain Spotted Fever (Rickettsia rickettsii)\n\n\n9.2.5 anaplasmosis\n\n\n9.2.6 Southern Tick-Associated Rash Illness\n\n\n9.2.7 Tick-Borne Relapsing Fever\n\n\n9.2.8 Tularemia\n\n\n9.2.9 Colorado tick fever\n\n\n9.2.10 Powassan encephalitis\n\n\n9.2.11 Q fever",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ticks</span>"
+    ]
+  },
+  {
+    "objectID": "vector-tick.html#study-methods",
+    "href": "vector-tick.html#study-methods",
+    "title": "9  Ticks",
+    "section": "9.3 Study Methods",
+    "text": "9.3 Study Methods",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ticks</span>"
+    ]
+  },
+  {
+    "objectID": "vector-arthropod.html",
+    "href": "vector-arthropod.html",
+    "title": "10  Other arthropod vectors",
+    "section": "",
+    "text": "10.1 Biology",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Other arthropod vectors</span>"
+    ]
+  },
+  {
+    "objectID": "vector-arthropod.html#arachnids",
+    "href": "vector-arthropod.html#arachnids",
+    "title": "10  Other arthropod vectors",
+    "section": "10.2 Arachnids",
+    "text": "10.2 Arachnids\n\n10.2.1 Ticks\n\n\n10.2.2 Mites\n\n\n\n\n\nAdult and larval chigger on pin head for size comparison. Photo credit: Dr. Cornelius B. Philip",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Other arthropod vectors</span>"
+    ]
+  },
+  {
+    "objectID": "vector-arthropod.html#insects",
+    "href": "vector-arthropod.html#insects",
+    "title": "10  Other arthropod vectors",
+    "section": "10.3 Insects",
+    "text": "10.3 Insects\n\n10.3.1 Mosquitos\n\n\n10.3.2 Sand flies\n\n\n10.3.3 Midges\n\n\n10.3.4 Triatomines\n\n\n\n\n\nAdult triatomine",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Other arthropod vectors</span>"
+    ]
+  },
+  {
+    "objectID": "vector-arthropod.html#infectious-disease",
+    "href": "vector-arthropod.html#infectious-disease",
+    "title": "10  Other arthropod vectors",
+    "section": "10.4 Infectious disease",
+    "text": "10.4 Infectious disease\n\n10.4.1 Scrub typhus (Orientia tsutsugamushi)\n\n\n10.4.2 Oropouche virus\n\n\n10.4.3 Chagas disease\n\n\n10.4.4 Leishmaniasis\n\n\n10.4.5 Oroya fever",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Other arthropod vectors</span>"
+    ]
+  },
+  {
+    "objectID": "vector-arthropod.html#study-methods",
+    "href": "vector-arthropod.html#study-methods",
+    "title": "10  Other arthropod vectors",
+    "section": "10.5 Study Methods",
+    "text": "10.5 Study Methods",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Other arthropod vectors</span>"
+    ]
+  },
+  {
+    "objectID": "vector-tick.html#biology",
+    "href": "vector-tick.html#biology",
+    "title": "9  Ticks",
+    "section": "",
+    "text": "9.1.1 Common tick species and distributions",
+    "crumbs": [
+      "Vector capture",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ticks</span>"
     ]
   }
 ]

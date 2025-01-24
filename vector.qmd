@@ -1,5 +1,11 @@
-# Vector capture
+# Vectors and reservoirs
 
-<!--# BB: Consider changing chapter title to Vector and Wildlife reservoir capture since including bats, mice etc -->
+Many infectious diseases may be transmitted through a **vector.** 
+A vector is an organism that acts as a carrier of an infectious agent between organisms of a different species (Wilson, 2017). 
+Most commonly, vectors are arthropods, such as mosquitos or ticks. 
+Vectors can serve as a purely mechanical transport between individuals or can serve as a necessary intermediate in the pathogens lifecycle.  
 
-Many infectious diseases may be transmitted through a *vector.*
+A **reservoir** is the environment in which a pathogen population in maintained and could include humans, animals, and the environment (CDC, 2012).
+Many emerging pathogens have wildlife reservoirs, i.e. the pathogen circulates in a wild animal population normally with some risk of spillover to people. 
+Pathogens that can be transmitted between vertebrate hosts and humans are considered **zoonoses.**
+Zoonotic diseases are often (but not always) transmitted by a vector. 

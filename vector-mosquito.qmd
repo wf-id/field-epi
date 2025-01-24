@@ -8,6 +8,9 @@
 - Yellow fever
 - Mayaro
 - Rift Valley
+- Lymphatic filariasis
+- O'nyong'nyong virus
+- West Nile Fever
 :::
 
 
@@ -50,18 +53,82 @@ knitr::include_graphics("assets/Culex.jpg")
 ## Infectious diseases
 
 ### Malaria
+**Pathogen:** *Plasmodium sp.* unicellular protozoan, the greatest being attributable to *P. falciparum* and *P. vivex*  
+**Vector:** female *Anopheles sp.* mosquitos  
+**Clinical manifestations:** There is a varied incubation period from 7-30 days between bite of an infectious mosquito and onset of clinical symptoms.
+Disease can range from mild (fever, chills, headaches, malaise) to severe (seizures, shock, organ failure, DIC, severe anemia, pulmonary edema/ARDS).  
+**Epidemiology:**  
+**Treatment/prevention:**  
 
 ### Dengue
+**Pathogen:** Dengue virus  
+**Vector:** female *Aedes sp.* mosquitoes, primarily *Aedes aegypti* but increased transmission by *Aedes albopictus.*  
+**Clinical manifestations:** Fever, joint pain, rash  
+**Epidemiology:**  
+**Treatment/prevention:**  
 
 ### Zika
+**Pathogen:** Zika virus  
+**Vector:** *Aedes sp.* mosquitoes, primarily *Aedes aegypti*  
+**Clinical manifestations:** Fever, joint/muscle pain, rash, conjunctivitis, malaise, headache. 
+Infection during pregnancy can lead to congenital malformations in the infant (congenital Zika syndrome)  
+**Epidemiology:**  
+**Treatment/prevention:**  
 
 ### Chickungunya
+**Pathogen:**  
+**Vector:** *Aedes sp.* mosquitoes, primarily *Aedes aegypti* and *Aedes albopictus*  
+**Clinical manifestations:** fever, joint pain, muscle pain, headache, nausea, fatigue, rash
+**Epidemiology:**  
+**Treatment/prevention:** Supportive care for clinical symptoms, one vaccine licensed in US  
 
 ### Mayaro
-
+**Pathogen:** Mayaro virus
+**Vector:** *Haemagogus species* mosquitoes
+**Clinical manifestations:** Most commonly mild illness: fever, headache, muscle ache, chills, rash
+**Epidemiology:**  
+**Treatment/prevention:** supportive care for clinical symptoms, prevention focused on limiting mosquito bites (no vaccine)
+```{r}
+#| echo: false
+#| label: Mayaro map
+#| fig-cap: "Mayaro virus has been found in Brazil, Bolivia, Colombia, Ecuador, French Guiana, Haiti, Peru, Suriname, Trinidad and Tobago, and Venezuela.
+#| Photo credit: CDC."
+knitr::include_graphics("assets/mayaro-map.jpg")
+```  
 ### Rift Valley Fever
+**Pathogen:**  
+**Vector:**  
+**Clinical manifestations:**  
+**Epidemiology:**  
+**Treatment/prevention:**  
 
-### West Nile Virus
+### West Nile Virus  
+**Pathogen:**  
+**Vector:**  
+**Clinical manifestations:**  
+**Epidemiology:**  
+**Treatment/prevention:**  
+
+### Lymphatic filariasis
+**Pathogen:**  
+**Vector:**  
+**Clinical manifestations:**  
+**Epidemiology:**  
+**Treatment/prevention:**  
+
+### O'nyong'nyong virus
+**Pathogen:**  
+**Vector:**  
+**Clinical manifestations:**  
+**Epidemiology:**  
+**Treatment/prevention:**  
+
+### West Nile Fever
+**Pathogen:**  
+**Vector:**  
+**Clinical manifestations:**  
+**Epidemiology:**  
+**Treatment/prevention:**  
 
 ## Study methods
 The CDC has published an overview of methods for mosquito surveillance: 
