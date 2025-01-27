@@ -34,7 +34,7 @@
 #| echo: false
 #| label: triatomine
 #| fig-cap: "Adult triatomine"
-knitr::include_graphics("assets/triatomine.tif")
+# knitr::include_graphics("assets/triatomine.tif")
 ```
 
 
